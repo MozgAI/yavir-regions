@@ -1746,10 +1746,11 @@
    ],
    "files": {
     "map.pmtiles": 891693775,
-    "graph.bin": 886438572,
-    "pack.sqlite": 389419008
+    "graph.bin": 887007072,
+    "pack.sqlite": 390631424
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "gb-scotland",
@@ -1766,10 +1767,11 @@
    ],
    "files": {
     "map.pmtiles": 261875003,
-    "graph.bin": 191447746,
-    "pack.sqlite": 42893312
+    "graph.bin": 191545486,
+    "pack.sqlite": 43024384
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "gb-wales",
@@ -1786,10 +1788,11 @@
    ],
    "files": {
     "map.pmtiles": 112141953,
-    "graph.bin": 105388432,
-    "pack.sqlite": 19189760
+    "graph.bin": 105526390,
+    "pack.sqlite": 19402752
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "georgia",
@@ -3045,10 +3048,11 @@
    ],
    "files": {
     "map.pmtiles": 1069899433,
-    "graph.bin": 660833128,
-    "pack.sqlite": 146366464
+    "graph.bin": 661351672,
+    "pack.sqlite": 190029824
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "kosovo",
@@ -3086,10 +3090,11 @@
    ],
    "files": {
     "map.pmtiles": 144756235,
-    "graph.bin": 187395934,
-    "pack.sqlite": 33595392
+    "graph.bin": 187409254,
+    "pack.sqlite": 33607680
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "us-alaska",
