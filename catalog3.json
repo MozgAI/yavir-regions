@@ -142,6 +142,26 @@
    "v": 3
   },
   {
+   "id": "nunavut",
+   "group": "ca",
+   "cc": "CA",
+   "name": "Nunavut",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -120.737,
+    51.1268,
+    -53.2694,
+    84.952
+   ],
+   "files": {
+    "map.pmtiles": 1404276190,
+    "graph.bin": 15481902,
+    "pack.sqlite": 331776
+   },
+   "v": 3
+  },
+  {
    "id": "ontario",
    "group": "ca",
    "cc": "CA",
@@ -3638,6 +3658,26 @@
     "map.pmtiles": 109460385,
     "graph.bin": 137543936,
     "pack.sqlite": 22855680
+   },
+   "v": 3
+  },
+  {
+   "id": "us-oregon",
+   "group": "us",
+   "cc": "US",
+   "name": "Oregon",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -126.3879,
+    41.9634,
+    -116.4545,
+    46.3035
+   ],
+   "files": {
+    "map.pmtiles": 195867063,
+    "graph.bin": 273777534,
+    "pack.sqlite": 66445312
    },
    "v": 3
   },
