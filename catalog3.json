@@ -2202,6 +2202,26 @@
    "v": 3
   },
   {
+   "id": "pl-zachodniopomorskie",
+   "group": "eu",
+   "cc": "PL",
+   "name": "Zachodniopomorskie",
+   "note": "Poland",
+   "parent": "Poland",
+   "bbox": [
+    13.9902,
+    52.6174,
+    16.9885,
+    55.0066
+   ],
+   "files": {
+    "map.pmtiles": 84107672,
+    "graph.bin": 54953766,
+    "pack.sqlite": 14143488
+   },
+   "v": 3
+  },
+  {
    "id": "pl-lodzkie",
    "group": "eu",
    "cc": "PL",
@@ -2278,6 +2298,86 @@
     "map.pmtiles": 12334499,
     "graph.bin": 21576088,
     "pack.sqlite": 2121728
+   },
+   "v": 3
+  },
+  {
+   "id": "portugal",
+   "group": "eu",
+   "cc": "PT",
+   "name": "Portugal",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -31.6,
+    29.7,
+    -6.1795,
+    42.1639
+   ],
+   "files": {
+    "map.pmtiles": 303365887,
+    "graph.bin": 516734504,
+    "pack.sqlite": 85553152
+   },
+   "v": 3
+  },
+  {
+   "id": "romania",
+   "group": "eu",
+   "cc": "RO",
+   "name": "Romania",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    20.2418,
+    43.6125,
+    30.279,
+    48.2695
+   ],
+   "files": {
+    "map.pmtiles": 396661946,
+    "graph.bin": 353728200,
+    "pack.sqlite": 77434880
+   },
+   "v": 3
+  },
+  {
+   "id": "serbia",
+   "group": "eu",
+   "cc": "RS",
+   "name": "Serbia",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    18.8089,
+    42.2298,
+    23.0103,
+    46.1921
+   ],
+   "files": {
+    "map.pmtiles": 180066171,
+    "graph.bin": 250296248,
+    "pack.sqlite": 121729024
+   },
+   "v": 3
+  },
+  {
+   "id": "slovakia",
+   "group": "eu",
+   "cc": "SK",
+   "name": "Slovakia",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    16.8307,
+    47.7265,
+    22.5705,
+    49.6186
+   ],
+   "files": {
+    "map.pmtiles": 227388742,
+    "graph.bin": 235691008,
+    "pack.sqlite": 55930880
    },
    "v": 3
   },
