@@ -1362,6 +1362,46 @@
    "v": 3
   },
   {
+   "id": "ireland-and-northern-ireland",
+   "group": "eu",
+   "cc": "IE",
+   "name": "Ireland and Northern Ireland",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -14.4022,
+    49.6,
+    -5.0593,
+    56.8655
+   ],
+   "files": {
+    "map.pmtiles": 276572758,
+    "graph.bin": 259076438,
+    "pack.sqlite": 44032000
+   },
+   "v": 3
+  },
+  {
+   "id": "isle-of-man",
+   "group": "eu",
+   "cc": "IM",
+   "name": "Isle of Man",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -5.4346,
+    53.7324,
+    -3.6887,
+    54.6706
+   ],
+   "files": {
+    "map.pmtiles": 5845316,
+    "graph.bin": 3699594,
+    "pack.sqlite": 860160
+   },
+   "v": 3
+  },
+  {
    "id": "iceland",
    "group": "eu",
    "cc": "IS",
@@ -1378,6 +1418,66 @@
     "map.pmtiles": 152458730,
     "graph.bin": 50663566,
     "pack.sqlite": 6975488
+   },
+   "v": 3
+  },
+  {
+   "id": "it-centro",
+   "group": "eu",
+   "cc": "IT",
+   "name": "Centro",
+   "note": "Italy",
+   "parent": "Italy",
+   "bbox": [
+    9.3065,
+    40.2144,
+    14.6685,
+    44.4797
+   ],
+   "files": {
+    "map.pmtiles": 257045567,
+    "graph.bin": 367286012,
+    "pack.sqlite": 65421312
+   },
+   "v": 3
+  },
+  {
+   "id": "it-isole",
+   "group": "eu",
+   "cc": "IT",
+   "name": "Isole",
+   "note": "Italy",
+   "parent": "Italy",
+   "bbox": [
+    7.7185,
+    35.0764,
+    15.7089,
+    41.5189
+   ],
+   "files": {
+    "map.pmtiles": 122244974,
+    "graph.bin": 244547256,
+    "pack.sqlite": 61386752
+   },
+   "v": 3
+  },
+  {
+   "id": "it-nord-est",
+   "group": "eu",
+   "cc": "IT",
+   "name": "Nord-Est",
+   "note": "Italy",
+   "parent": "Italy",
+   "bbox": [
+    9.1955,
+    43.7298,
+    13.9288,
+    47.1001
+   ],
+   "files": {
+    "map.pmtiles": 380077979,
+    "graph.bin": 430490174,
+    "pack.sqlite": 158490624
    },
    "v": 3
   },
