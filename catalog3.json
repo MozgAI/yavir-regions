@@ -422,6 +422,106 @@
    "v": 3
   },
   {
+   "id": "de-baden-wuerttemberg",
+   "group": "eu",
+   "cc": "DE",
+   "name": "Baden-Württemberg",
+   "note": "Germany",
+   "parent": "Germany",
+   "bbox": [
+    7.5065,
+    47.5308,
+    10.515,
+    49.7946
+   ],
+   "files": {
+    "map.pmtiles": 339595372,
+    "graph.bin": 365358964,
+    "pack.sqlite": 158228480
+   },
+   "v": 3
+  },
+  {
+   "id": "de-bayern",
+   "group": "eu",
+   "cc": "DE",
+   "name": "Bayern",
+   "note": "Germany",
+   "parent": "Germany",
+   "bbox": [
+    8.9752,
+    47.2654,
+    13.8495,
+    50.5662
+   ],
+   "files": {
+    "map.pmtiles": 512034665,
+    "graph.bin": 516681386,
+    "pack.sqlite": 165449728
+   },
+   "v": 3
+  },
+  {
+   "id": "de-berlin",
+   "group": "eu",
+   "cc": "DE",
+   "name": "Berlin",
+   "note": "Germany",
+   "parent": "Germany",
+   "bbox": [
+    13.0828,
+    52.3345,
+    13.7622,
+    52.6783
+   ],
+   "files": {
+    "map.pmtiles": 26232600,
+    "graph.bin": 22982350,
+    "pack.sqlite": 28905472
+   },
+   "v": 3
+  },
+  {
+   "id": "de-brandenburg",
+   "group": "eu",
+   "cc": "DE",
+   "name": "Brandenburg + Berlin",
+   "note": "Germany",
+   "parent": "Germany",
+   "bbox": [
+    11.2606,
+    51.3561,
+    14.775,
+    53.563
+   ],
+   "files": {
+    "map.pmtiles": 159077951,
+    "graph.bin": 109290430,
+    "pack.sqlite": 72937472
+   },
+   "v": 3
+  },
+  {
+   "id": "de-bremen",
+   "group": "eu",
+   "cc": "DE",
+   "name": "Bremen",
+   "note": "Germany",
+   "parent": "Germany",
+   "bbox": [
+    8.481,
+    53.0103,
+    8.9913,
+    53.6106
+   ],
+   "files": {
+    "map.pmtiles": 11386484,
+    "graph.bin": 6434168,
+    "pack.sqlite": 9027584
+   },
+   "v": 3
+  },
+  {
    "id": "denmark",
    "group": "eu",
    "cc": "DK",
