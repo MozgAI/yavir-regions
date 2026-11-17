@@ -962,6 +962,106 @@
    "v": 3
   },
   {
+   "id": "es-galicia",
+   "group": "eu",
+   "cc": "ES",
+   "name": "Galicia",
+   "note": "Spain",
+   "parent": "Spain",
+   "bbox": [
+    -9.779,
+    41.8044,
+    -6.7271,
+    44.1486
+   ],
+   "files": {
+    "map.pmtiles": 103074235,
+    "graph.bin": 176693250,
+    "pack.sqlite": 21610496
+   },
+   "v": 3
+  },
+  {
+   "id": "es-islas-baleares",
+   "group": "eu",
+   "cc": "ES",
+   "name": "Islas Baleares",
+   "note": "Spain",
+   "parent": "Spain",
+   "bbox": [
+    0.6152,
+    38.0568,
+    4.9383,
+    40.7098
+   ],
+   "files": {
+    "map.pmtiles": 24794719,
+    "graph.bin": 34539928,
+    "pack.sqlite": 12496896
+   },
+   "v": 3
+  },
+  {
+   "id": "es-la-rioja",
+   "group": "eu",
+   "cc": "ES",
+   "name": "La Rioja",
+   "note": "Spain",
+   "parent": "Spain",
+   "bbox": [
+    -3.1402,
+    41.914,
+    -1.673,
+    42.6462
+   ],
+   "files": {
+    "map.pmtiles": 16617038,
+    "graph.bin": 20572122,
+    "pack.sqlite": 1904640
+   },
+   "v": 3
+  },
+  {
+   "id": "es-madrid",
+   "group": "eu",
+   "cc": "ES",
+   "name": "Madrid",
+   "note": "Spain",
+   "parent": "Spain",
+   "bbox": [
+    -4.5895,
+    39.8812,
+    -3.0504,
+    41.1686
+   ],
+   "files": {
+    "map.pmtiles": 39043502,
+    "graph.bin": 66193244,
+    "pack.sqlite": 25481216
+   },
+   "v": 3
+  },
+  {
+   "id": "es-melilla",
+   "group": "eu",
+   "cc": "ES",
+   "name": "Melilla",
+   "note": "Spain",
+   "parent": "Spain",
+   "bbox": [
+    -2.9724,
+    35.2639,
+    -2.9082,
+    35.3239
+   ],
+   "files": {
+    "map.pmtiles": 980248,
+    "graph.bin": 678184,
+    "pack.sqlite": 266240
+   },
+   "v": 3
+  },
+  {
    "id": "finland",
    "group": "eu",
    "cc": "FI",
