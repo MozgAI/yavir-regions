@@ -1962,6 +1962,106 @@
    "v": 3
   },
   {
+   "id": "pl-dolnoslaskie",
+   "group": "eu",
+   "cc": "PL",
+   "name": "Dolnośląskie",
+   "note": "Poland",
+   "parent": "Poland",
+   "bbox": [
+    14.8084,
+    50.0825,
+    17.8058,
+    51.8142
+   ],
+   "files": {
+    "map.pmtiles": 115497763,
+    "graph.bin": 108764834,
+    "pack.sqlite": 24346624
+   },
+   "v": 3
+  },
+  {
+   "id": "pl-kujawsko-pomorskie",
+   "group": "eu",
+   "cc": "PL",
+   "name": "Kujawsko-pomorskie",
+   "note": "Poland",
+   "parent": "Poland",
+   "bbox": [
+    17.2394,
+    52.3211,
+    19.7724,
+    53.7917
+   ],
+   "files": {
+    "map.pmtiles": 89402426,
+    "graph.bin": 53012080,
+    "pack.sqlite": 14688256
+   },
+   "v": 3
+  },
+  {
+   "id": "pl-lubelskie",
+   "group": "eu",
+   "cc": "PL",
+   "name": "Lubelskie",
+   "note": "Poland",
+   "parent": "Poland",
+   "bbox": [
+    21.6029,
+    50.2365,
+    24.161,
+    52.3004
+   ],
+   "files": {
+    "map.pmtiles": 108749176,
+    "graph.bin": 66597742,
+    "pack.sqlite": 16891904
+   },
+   "v": 3
+  },
+  {
+   "id": "pl-lubuskie",
+   "group": "eu",
+   "cc": "PL",
+   "name": "Lubuskie",
+   "note": "Poland",
+   "parent": "Poland",
+   "bbox": [
+    14.4955,
+    51.3486,
+    16.43,
+    53.1281
+   ],
+   "files": {
+    "map.pmtiles": 57463923,
+    "graph.bin": 40686658,
+    "pack.sqlite": 9822208
+   },
+   "v": 3
+  },
+  {
+   "id": "pl-lodzkie",
+   "group": "eu",
+   "cc": "PL",
+   "name": "Łódzkie",
+   "note": "Poland",
+   "parent": "Poland",
+   "bbox": [
+    18.0623,
+    50.8309,
+    20.6691,
+    52.4062
+   ],
+   "files": {
+    "map.pmtiles": 102700454,
+    "graph.bin": 51632210,
+    "pack.sqlite": 19845120
+   },
+   "v": 3
+  },
+  {
    "id": "azores",
    "group": "eu",
    "cc": "PT",
