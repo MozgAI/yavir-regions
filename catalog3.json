@@ -25,7 +25,7 @@
    "id": "us-alabama",
    "group": "us",
    "cc": "US",
-   "name": "us/alabama",
+   "name": "Alabama",
    "note": "",
    "parent": "",
    "bbox": [
@@ -45,7 +45,7 @@
    "id": "us-alaska",
    "group": "us",
    "cc": "US",
-   "name": "us/alaska",
+   "name": "Alaska",
    "note": "",
    "parent": "",
    "bbox": [
@@ -65,7 +65,7 @@
    "id": "us-arizona",
    "group": "us",
    "cc": "US",
-   "name": "us/arizona",
+   "name": "Arizona",
    "note": "",
    "parent": "",
    "bbox": [
@@ -85,7 +85,7 @@
    "id": "us-arkansas",
    "group": "us",
    "cc": "US",
-   "name": "us/arkansas",
+   "name": "Arkansas",
    "note": "",
    "parent": "",
    "bbox": [
@@ -98,6 +98,106 @@
     "map.pmtiles": 90736806,
     "graph.bin": 127751740,
     "pack.sqlite": 36241408
+   },
+   "v": 3
+  },
+  {
+   "id": "us-colorado",
+   "group": "us",
+   "cc": "US",
+   "name": "Colorado",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -109.0631,
+    36.9894,
+    -102.0355,
+    41.0039
+   ],
+   "files": {
+    "map.pmtiles": 250485372,
+    "graph.bin": 266257480,
+    "pack.sqlite": 67919872
+   },
+   "v": 3
+  },
+  {
+   "id": "us-connecticut",
+   "group": "us",
+   "cc": "US",
+   "name": "Connecticut",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -73.7289,
+    40.964,
+    -71.7853,
+    42.0523
+   ],
+   "files": {
+    "map.pmtiles": 71017222,
+    "graph.bin": 79714432,
+    "pack.sqlite": 60805120
+   },
+   "v": 3
+  },
+  {
+   "id": "us-delaware",
+   "group": "us",
+   "cc": "US",
+   "name": "Delaware",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -75.7897,
+    38.4504,
+    -74.984,
+    39.8426
+   ],
+   "files": {
+    "map.pmtiles": 19014206,
+    "graph.bin": 19737946,
+    "pack.sqlite": 7254016
+   },
+   "v": 3
+  },
+  {
+   "id": "us-norcal",
+   "group": "us",
+   "cc": "US",
+   "name": "Northern California",
+   "note": "California",
+   "parent": "California",
+   "bbox": [
+    -125.8935,
+    35.7853,
+    -115.6468,
+    42.0162
+   ],
+   "files": {
+    "map.pmtiles": 319786366,
+    "graph.bin": 496506916,
+    "pack.sqlite": 126259200
+   },
+   "v": 3
+  },
+  {
+   "id": "us-socal",
+   "group": "us",
+   "cc": "US",
+   "name": "Southern California",
+   "note": "California",
+   "parent": "California",
+   "bbox": [
+    -121.4401,
+    32.4844,
+    -114.1291,
+    35.8105
+   ],
+   "files": {
+    "map.pmtiles": 205283570,
+    "graph.bin": 297881806,
+    "pack.sqlite": 150659072
    },
    "v": 3
   },
