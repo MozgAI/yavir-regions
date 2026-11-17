@@ -402,6 +402,106 @@
    "v": 3
   },
   {
+   "id": "czech-republic",
+   "group": "eu",
+   "cc": "CZ",
+   "name": "Czech Republic",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    12.0848,
+    48.5429,
+    18.8632,
+    51.0643
+   ],
+   "files": {
+    "map.pmtiles": 565655280,
+    "graph.bin": 364856386,
+    "pack.sqlite": 116600832
+   },
+   "v": 3
+  },
+  {
+   "id": "denmark",
+   "group": "eu",
+   "cc": "DK",
+   "name": "Denmark",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    7.7011,
+    54.4406,
+    15.6545,
+    58.0624
+   ],
+   "files": {
+    "map.pmtiles": 294517690,
+    "graph.bin": 190054756,
+    "pack.sqlite": 144539648
+   },
+   "v": 3
+  },
+  {
+   "id": "estonia",
+   "group": "eu",
+   "cc": "EE",
+   "name": "Estonia",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    20.8517,
+    57.4976,
+    28.2143,
+    59.9971
+   ],
+   "files": {
+    "map.pmtiles": 124107048,
+    "graph.bin": 78703888,
+    "pack.sqlite": 16035840
+   },
+   "v": 3
+  },
+  {
+   "id": "finland",
+   "group": "eu",
+   "cc": "FI",
+   "name": "Finland",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    19.0243,
+    59.2878,
+    31.6159,
+    70.0996
+   ],
+   "files": {
+    "map.pmtiles": 1019278904,
+    "graph.bin": 590641260,
+    "pack.sqlite": 83755008
+   },
+   "v": 3
+  },
+  {
+   "id": "faroe-islands",
+   "group": "eu",
+   "cc": "FO",
+   "name": "Faroe Islands",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -8.6902,
+    60.8663,
+    -5.5151,
+    62.9052
+   ],
+   "files": {
+    "map.pmtiles": 7776452,
+    "graph.bin": 7151326,
+    "pack.sqlite": 1617920
+   },
+   "v": 3
+  },
+  {
    "id": "croatia",
    "group": "eu",
    "cc": "HR",
