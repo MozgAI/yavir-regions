@@ -2060,10 +2060,11 @@
    ],
    "files": {
     "map.pmtiles": 4655716,
-    "graph.bin": 2695852,
-    "pack.sqlite": 843776
+    "graph.bin": 2696314,
+    "pack.sqlite": 860160
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "lithuania",
@@ -2080,10 +2081,11 @@
    ],
    "files": {
     "map.pmtiles": 232690319,
-    "graph.bin": 113059080,
-    "pack.sqlite": 49123328
+    "graph.bin": 113090586,
+    "pack.sqlite": 50249728
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "luxembourg",
@@ -2100,10 +2102,11 @@
    ],
    "files": {
     "map.pmtiles": 41792681,
-    "graph.bin": 24715776,
-    "pack.sqlite": 9150464
+    "graph.bin": 24857940,
+    "pack.sqlite": 9244672
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "latvia",
@@ -2120,10 +2123,11 @@
    ],
    "files": {
     "map.pmtiles": 156930415,
-    "graph.bin": 92102788,
-    "pack.sqlite": 21315584
+    "graph.bin": 92234692,
+    "pack.sqlite": 21889024
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "monaco",
@@ -3001,10 +3005,11 @@
    ],
    "files": {
     "map.pmtiles": 28632719,
-    "graph.bin": 41502840,
-    "pack.sqlite": 17641472
+    "graph.bin": 41508282,
+    "pack.sqlite": 17747968
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "us-alabama",
