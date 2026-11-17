@@ -702,6 +702,166 @@
    "v": 3
   },
   {
+   "id": "fr-haute-normandie",
+   "group": "eu",
+   "cc": "FR",
+   "name": "Haute-Normandie",
+   "note": "France",
+   "parent": "France",
+   "bbox": [
+    0.0095,
+    48.6657,
+    1.804,
+    50.0877
+   ],
+   "files": {
+    "map.pmtiles": 55800800,
+    "graph.bin": 46145232,
+    "pack.sqlite": 22278144
+   },
+   "v": 3
+  },
+  {
+   "id": "fr-ile-de-france",
+   "group": "eu",
+   "cc": "FR",
+   "name": "Ile-de-France",
+   "note": "France",
+   "parent": "France",
+   "bbox": [
+    1.4451,
+    48.1192,
+    3.5604,
+    49.2427
+   ],
+   "files": {
+    "map.pmtiles": 98391071,
+    "graph.bin": 103640440,
+    "pack.sqlite": 58609664
+   },
+   "v": 3
+  },
+  {
+   "id": "fr-languedoc-roussillon",
+   "group": "eu",
+   "cc": "FR",
+   "name": "Languedoc-Roussillon",
+   "note": "France",
+   "parent": "France",
+   "bbox": [
+    1.6863,
+    42.3276,
+    4.848,
+    44.9782
+   ],
+   "files": {
+    "map.pmtiles": 133623779,
+    "graph.bin": 228357976,
+    "pack.sqlite": 34414592
+   },
+   "v": 3
+  },
+  {
+   "id": "fr-limousin",
+   "group": "eu",
+   "cc": "FR",
+   "name": "Limousin",
+   "note": "France",
+   "parent": "France",
+   "bbox": [
+    0.6271,
+    44.9184,
+    2.6138,
+    46.4578
+   ],
+   "files": {
+    "map.pmtiles": 86609520,
+    "graph.bin": 69046772,
+    "pack.sqlite": 10571776
+   },
+   "v": 3
+  },
+  {
+   "id": "fr-lorraine",
+   "group": "eu",
+   "cc": "FR",
+   "name": "Lorraine",
+   "note": "France",
+   "parent": "France",
+   "bbox": [
+    4.886,
+    47.8119,
+    7.6401,
+    49.6195
+   ],
+   "files": {
+    "map.pmtiles": 115401466,
+    "graph.bin": 104051152,
+    "pack.sqlite": 24907776
+   },
+   "v": 3
+  },
+  {
+   "id": "fr-midi-pyrenees",
+   "group": "eu",
+   "cc": "FR",
+   "name": "Midi-Pyrenees",
+   "note": "France",
+   "parent": "France",
+   "bbox": [
+    -0.3275,
+    42.5679,
+    3.4533,
+    45.0478
+   ],
+   "files": {
+    "map.pmtiles": 232998562,
+    "graph.bin": 240605048,
+    "pack.sqlite": 48889856
+   },
+   "v": 3
+  },
+  {
+   "id": "fr-nord-pas-de-calais",
+   "group": "eu",
+   "cc": "FR",
+   "name": "Nord-Pas-de-Calais",
+   "note": "France",
+   "parent": "France",
+   "bbox": [
+    1.2783,
+    49.9676,
+    4.2366,
+    51.2812
+   ],
+   "files": {
+    "map.pmtiles": 96567739,
+    "graph.bin": 104182510,
+    "pack.sqlite": 28930048
+   },
+   "v": 3
+  },
+  {
+   "id": "fr-pays-de-la-loire",
+   "group": "eu",
+   "cc": "FR",
+   "name": "Pays de la Loire",
+   "note": "France",
+   "parent": "France",
+   "bbox": [
+    -2.6747,
+    46.2188,
+    0.919,
+    48.57
+   ],
+   "files": {
+    "map.pmtiles": 182876332,
+    "graph.bin": 158735530,
+    "pack.sqlite": 45146112
+   },
+   "v": 3
+  },
+  {
    "id": "croatia",
    "group": "eu",
    "cc": "HR",
