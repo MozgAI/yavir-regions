@@ -1564,10 +1564,11 @@
    ],
    "files": {
     "map.pmtiles": 232998562,
-    "graph.bin": 240605048,
-    "pack.sqlite": 48889856
+    "graph.bin": 240655436,
+    "pack.sqlite": 48861184
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "fr-nord-pas-de-calais",
@@ -1584,10 +1585,11 @@
    ],
    "files": {
     "map.pmtiles": 96567739,
-    "graph.bin": 104182510,
-    "pack.sqlite": 28930048
+    "graph.bin": 104457010,
+    "pack.sqlite": 28979200
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "fr-pays-de-la-loire",
@@ -1604,10 +1606,11 @@
    ],
    "files": {
     "map.pmtiles": 182876332,
-    "graph.bin": 158735530,
-    "pack.sqlite": 45146112
+    "graph.bin": 158870542,
+    "pack.sqlite": 45076480
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "fr-picardie",
@@ -1624,10 +1627,11 @@
    ],
    "files": {
     "map.pmtiles": 83740658,
-    "graph.bin": 65339852,
-    "pack.sqlite": 30113792
+    "graph.bin": 65351696,
+    "pack.sqlite": 30126080
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "fr-poitou-charentes",
@@ -1644,10 +1648,11 @@
    ],
    "files": {
     "map.pmtiles": 113610280,
-    "graph.bin": 114784112,
-    "pack.sqlite": 32370688
+    "graph.bin": 114811376,
+    "pack.sqlite": 32325632
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "fr-provence-alpes-cote-d-azur",
