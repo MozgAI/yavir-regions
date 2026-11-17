@@ -2732,10 +2732,11 @@
    ],
    "files": {
     "map.pmtiles": 92950428,
-    "graph.bin": 50362450,
-    "pack.sqlite": 8843264
+    "graph.bin": 50406190,
+    "pack.sqlite": 9064448
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "pl-wielkopolskie",
@@ -2752,10 +2753,11 @@
    ],
    "files": {
     "map.pmtiles": 109559676,
-    "graph.bin": 80070756,
-    "pack.sqlite": 31363072
+    "graph.bin": 80166246,
+    "pack.sqlite": 31518720
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "pl-zachodniopomorskie",
@@ -2772,10 +2774,11 @@
    ],
    "files": {
     "map.pmtiles": 84107672,
-    "graph.bin": 54953766,
-    "pack.sqlite": 14143488
+    "graph.bin": 55031964,
+    "pack.sqlite": 14348288
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "pl-lodzkie",
@@ -2834,10 +2837,11 @@
    ],
    "files": {
     "map.pmtiles": 74543543,
-    "graph.bin": 48732946,
-    "pack.sqlite": 9650176
+    "graph.bin": 48785932,
+    "pack.sqlite": 9666560
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "azores",
@@ -2875,10 +2879,11 @@
    ],
    "files": {
     "map.pmtiles": 303365887,
-    "graph.bin": 516734504,
-    "pack.sqlite": 85553152
+    "graph.bin": 516882734,
+    "pack.sqlite": 85770240
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "romania",
