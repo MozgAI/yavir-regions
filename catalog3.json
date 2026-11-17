@@ -1862,6 +1862,106 @@
    "v": 3
   },
   {
+   "id": "nl-overijssel",
+   "group": "eu",
+   "cc": "NL",
+   "name": "Overijssel",
+   "note": "Netherlands",
+   "parent": "Netherlands",
+   "bbox": [
+    5.7768,
+    52.1135,
+    7.0751,
+    52.8554
+   ],
+   "files": {
+    "map.pmtiles": 53882623,
+    "graph.bin": 34068160,
+    "pack.sqlite": 33091584
+   },
+   "v": 3
+  },
+  {
+   "id": "nl-utrecht",
+   "group": "eu",
+   "cc": "NL",
+   "name": "Utrecht",
+   "note": "Netherlands",
+   "parent": "Netherlands",
+   "bbox": [
+    4.7908,
+    51.8561,
+    5.6283,
+    52.3049
+   ],
+   "files": {
+    "map.pmtiles": 38242896,
+    "graph.bin": 20953304,
+    "pack.sqlite": 37412864
+   },
+   "v": 3
+  },
+  {
+   "id": "nl-zeeland",
+   "group": "eu",
+   "cc": "NL",
+   "name": "Zeeland",
+   "note": "Netherlands",
+   "parent": "Netherlands",
+   "bbox": [
+    3.2339,
+    51.1972,
+    4.2784,
+    51.8701
+   ],
+   "files": {
+    "map.pmtiles": 23437451,
+    "graph.bin": 11971420,
+    "pack.sqlite": 14077952
+   },
+   "v": 3
+  },
+  {
+   "id": "nl-zuid-holland",
+   "group": "eu",
+   "cc": "NL",
+   "name": "Zuid-Holland",
+   "note": "Netherlands",
+   "parent": "Netherlands",
+   "bbox": [
+    3.3453,
+    51.6425,
+    5.0324,
+    52.4761
+   ],
+   "files": {
+    "map.pmtiles": 63636800,
+    "graph.bin": 48967804,
+    "pack.sqlite": 103763968
+   },
+   "v": 3
+  },
+  {
+   "id": "norway",
+   "group": "eu",
+   "cc": "NO",
+   "name": "Norway",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -11.368,
+    57.5532,
+    35.5271,
+    81.052
+   ],
+   "files": {
+    "map.pmtiles": 1670836711,
+    "graph.bin": 735036796,
+    "pack.sqlite": 151977984
+   },
+   "v": 3
+  },
+  {
    "id": "azores",
    "group": "eu",
    "cc": "PT",
