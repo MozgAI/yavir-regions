@@ -382,6 +382,26 @@
    "v": 3
   },
   {
+   "id": "switzerland",
+   "group": "eu",
+   "cc": "CH",
+   "name": "Switzerland",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    5.9544,
+    45.8164,
+    10.4958,
+    47.8113
+   ],
+   "files": {
+    "map.pmtiles": 296718290,
+    "graph.bin": 459619372,
+    "pack.sqlite": 124985344
+   },
+   "v": 3
+  },
+  {
    "id": "cyprus",
    "group": "eu",
    "cc": "CY",
@@ -1622,6 +1642,66 @@
    "v": 3
   },
   {
+   "id": "gb-england",
+   "group": "eu",
+   "cc": "GB",
+   "name": "England",
+   "note": "United Kingdom",
+   "parent": "United Kingdom",
+   "bbox": [
+    -7.1012,
+    49.5781,
+    2.2499,
+    56.07
+   ],
+   "files": {
+    "map.pmtiles": 891693775,
+    "graph.bin": 886438572,
+    "pack.sqlite": 389419008
+   },
+   "v": 3
+  },
+  {
+   "id": "gb-scotland",
+   "group": "eu",
+   "cc": "GB",
+   "name": "Scotland",
+   "note": "United Kingdom",
+   "parent": "United Kingdom",
+   "bbox": [
+    -14.8615,
+    54.54,
+    0.2161,
+    61.1356
+   ],
+   "files": {
+    "map.pmtiles": 261875003,
+    "graph.bin": 191447746,
+    "pack.sqlite": 42893312
+   },
+   "v": 3
+  },
+  {
+   "id": "gb-wales",
+   "group": "eu",
+   "cc": "GB",
+   "name": "Wales",
+   "note": "United Kingdom",
+   "parent": "United Kingdom",
+   "bbox": [
+    -6.1832,
+    51.04,
+    -2.648,
+    53.7663
+   ],
+   "files": {
+    "map.pmtiles": 112141953,
+    "graph.bin": 105388432,
+    "pack.sqlite": 19189760
+   },
+   "v": 3
+  },
+  {
    "id": "georgia",
    "group": "eu",
    "cc": "GE",
@@ -2778,6 +2858,26 @@
     "map.pmtiles": 227388742,
     "graph.bin": 235691008,
     "pack.sqlite": 55930880
+   },
+   "v": 3
+  },
+  {
+   "id": "turkey",
+   "group": "eu",
+   "cc": "TR",
+   "name": "Turkey",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    25.524,
+    35.717,
+    44.8599,
+    43.0748
+   ],
+   "files": {
+    "map.pmtiles": 693139526,
+    "graph.bin": 971143244,
+    "pack.sqlite": 87363584
    },
    "v": 3
   },
