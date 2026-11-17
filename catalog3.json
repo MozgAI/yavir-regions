@@ -2144,10 +2144,11 @@
    ],
    "files": {
     "map.pmtiles": 1555853,
-    "graph.bin": 285650,
-    "pack.sqlite": 241664
+    "graph.bin": 307872,
+    "pack.sqlite": 262144
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "moldova",
@@ -2164,10 +2165,11 @@
    ],
    "files": {
     "map.pmtiles": 81252054,
-    "graph.bin": 90162346,
-    "pack.sqlite": 37462016
+    "graph.bin": 90189916,
+    "pack.sqlite": 41852928
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "montenegro",
@@ -2184,10 +2186,11 @@
    ],
    "files": {
     "map.pmtiles": 41160998,
-    "graph.bin": 51338722,
-    "pack.sqlite": 2424832
+    "graph.bin": 51376066,
+    "pack.sqlite": 2576384
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "macedonia",
@@ -2204,10 +2207,11 @@
    ],
    "files": {
     "map.pmtiles": 40330904,
-    "graph.bin": 47742432,
-    "pack.sqlite": 3522560
+    "graph.bin": 47766654,
+    "pack.sqlite": 4063232
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "malta",
@@ -2224,10 +2228,11 @@
    ],
    "files": {
     "map.pmtiles": 4360864,
-    "graph.bin": 5264116,
-    "pack.sqlite": 2494464
+    "graph.bin": 5270344,
+    "pack.sqlite": 2715648
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "nl-drenthe",
