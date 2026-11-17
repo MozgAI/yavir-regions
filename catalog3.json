@@ -2648,10 +2648,11 @@
    ],
    "files": {
     "map.pmtiles": 43900622,
-    "graph.bin": 30350686,
-    "pack.sqlite": 9084928
+    "graph.bin": 30374590,
+    "pack.sqlite": 9191424
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "pl-podkarpackie",
@@ -2668,10 +2669,11 @@
    ],
    "files": {
     "map.pmtiles": 117223792,
-    "graph.bin": 89117458,
-    "pack.sqlite": 15540224
+    "graph.bin": 89172214,
+    "pack.sqlite": 15822848
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "pl-podlaskie",
@@ -2688,10 +2690,11 @@
    ],
    "files": {
     "map.pmtiles": 85801583,
-    "graph.bin": 41355680,
-    "pack.sqlite": 9609216
+    "graph.bin": 41376194,
+    "pack.sqlite": 9687040
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "pl-pomorskie",
@@ -2708,10 +2711,11 @@
    ],
    "files": {
     "map.pmtiles": 88240756,
-    "graph.bin": 63772784,
-    "pack.sqlite": 20135936
+    "graph.bin": 63933686,
+    "pack.sqlite": 20324352
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "pl-warminsko-mazurskie",
@@ -2809,10 +2813,11 @@
    ],
    "files": {
     "map.pmtiles": 106238410,
-    "graph.bin": 86647362,
-    "pack.sqlite": 41418752
+    "graph.bin": 87014076,
+    "pack.sqlite": 41660416
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "pl-swietokrzyskie",
