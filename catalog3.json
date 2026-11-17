@@ -423,10 +423,11 @@
    ],
    "files": {
     "map.pmtiles": 296718290,
-    "graph.bin": 459619372,
-    "pack.sqlite": 124985344
+    "graph.bin": 460337764,
+    "pack.sqlite": 125472768
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "cyprus",
@@ -1199,10 +1200,11 @@
    ],
    "files": {
     "map.pmtiles": 59257236,
-    "graph.bin": 80817148,
-    "pack.sqlite": 12464128
+    "graph.bin": 80968834,
+    "pack.sqlite": 13148160
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "es-valencia",
@@ -1219,10 +1221,11 @@
    ],
    "files": {
     "map.pmtiles": 83014290,
-    "graph.bin": 183345638,
-    "pack.sqlite": 31748096
+    "graph.bin": 183399896,
+    "pack.sqlite": 33705984
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "finland",
@@ -2958,10 +2961,11 @@
    ],
    "files": {
     "map.pmtiles": 1435675979,
-    "graph.bin": 744378178,
-    "pack.sqlite": 92815360
+    "graph.bin": 745213222,
+    "pack.sqlite": 92807168
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "slovenia",
@@ -3020,10 +3024,11 @@
    ],
    "files": {
     "map.pmtiles": 693139526,
-    "graph.bin": 971143244,
-    "pack.sqlite": 87363584
+    "graph.bin": 971293070,
+    "pack.sqlite": 91959296
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "ukraine",
