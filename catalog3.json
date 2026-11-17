@@ -1808,10 +1808,11 @@
    ],
    "files": {
     "map.pmtiles": 3751573,
-    "graph.bin": 3020014,
-    "pack.sqlite": 1073152
+    "graph.bin": 3020362,
+    "pack.sqlite": 1093632
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "greece",
@@ -1870,10 +1871,11 @@
    ],
    "files": {
     "map.pmtiles": 252809431,
-    "graph.bin": 224808912,
-    "pack.sqlite": 63447040
+    "graph.bin": 225122352,
+    "pack.sqlite": 64438272
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "ireland-and-northern-ireland",
@@ -1890,10 +1892,11 @@
    ],
    "files": {
     "map.pmtiles": 276572758,
-    "graph.bin": 259076438,
-    "pack.sqlite": 44032000
+    "graph.bin": 259142036,
+    "pack.sqlite": 44150784
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "isle-of-man",
@@ -1911,9 +1914,10 @@
    "files": {
     "map.pmtiles": 5845316,
     "graph.bin": 3699594,
-    "pack.sqlite": 860160
+    "pack.sqlite": 864256
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "iceland",
@@ -1930,10 +1934,11 @@
    ],
    "files": {
     "map.pmtiles": 152458730,
-    "graph.bin": 50663566,
-    "pack.sqlite": 6975488
+    "graph.bin": 51396898,
+    "pack.sqlite": 7065600
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "it-centro",
