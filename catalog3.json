@@ -632,10 +632,11 @@
    ],
    "files": {
     "map.pmtiles": 111297690,
-    "graph.bin": 53021492,
-    "pack.sqlite": 27348992
+    "graph.bin": 53052158,
+    "pack.sqlite": 27320320
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "de-niedersachsen",
@@ -652,10 +653,11 @@
    ],
    "files": {
     "map.pmtiles": 334248344,
-    "graph.bin": 211802170,
-    "pack.sqlite": 147324928
+    "graph.bin": 212032492,
+    "pack.sqlite": 147046400
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "de-nordrhein-westfalen",
@@ -672,10 +674,11 @@
    ],
    "files": {
     "map.pmtiles": 392185571,
-    "graph.bin": 348001216,
-    "pack.sqlite": 249573376
+    "graph.bin": 348845902,
+    "pack.sqlite": 249221120
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "de-rheinland-pfalz",
@@ -692,10 +695,11 @@
    ],
    "files": {
     "map.pmtiles": 175172081,
-    "graph.bin": 176964402,
-    "pack.sqlite": 65765376
+    "graph.bin": 177138576,
+    "pack.sqlite": 65662976
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "de-saarland",
@@ -712,10 +716,11 @@
    ],
    "files": {
     "map.pmtiles": 29333463,
-    "graph.bin": 23459164,
-    "pack.sqlite": 16723968
+    "graph.bin": 23494396,
+    "pack.sqlite": 16707584
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "de-sachsen",
