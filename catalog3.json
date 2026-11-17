@@ -462,6 +462,106 @@
    "v": 3
   },
   {
+   "id": "us-minnesota",
+   "group": "us",
+   "cc": "US",
+   "name": "Minnesota",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -97.2499,
+    43.4991,
+    -89.4861,
+    49.4071
+   ],
+   "files": {
+    "map.pmtiles": 241241166,
+    "graph.bin": 163026670,
+    "pack.sqlite": 41828352
+   },
+   "v": 3
+  },
+  {
+   "id": "us-mississippi",
+   "group": "us",
+   "cc": "US",
+   "name": "Mississippi",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -91.6586,
+    30.0417,
+    -88.0929,
+    35.0005
+   ],
+   "files": {
+    "map.pmtiles": 71192831,
+    "graph.bin": 101151352,
+    "pack.sqlite": 24862720
+   },
+   "v": 3
+  },
+  {
+   "id": "us-missouri",
+   "group": "us",
+   "cc": "US",
+   "name": "Missouri",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -95.7775,
+    35.9947,
+    -89.0891,
+    40.6166
+   ],
+   "files": {
+    "map.pmtiles": 174746714,
+    "graph.bin": 229927858,
+    "pack.sqlite": 57491456
+   },
+   "v": 3
+  },
+  {
+   "id": "us-montana",
+   "group": "us",
+   "cc": "US",
+   "name": "Montana",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -116.0518,
+    44.3556,
+    -104.0355,
+    49.0077
+   ],
+   "files": {
+    "map.pmtiles": 142405835,
+    "graph.bin": 155199022,
+    "pack.sqlite": 10854400
+   },
+   "v": 3
+  },
+  {
+   "id": "us-nebraska",
+   "group": "us",
+   "cc": "US",
+   "name": "Nebraska",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -104.0575,
+    40.0001,
+    -95.307,
+    43.0017
+   ],
+   "files": {
+    "map.pmtiles": 91960598,
+    "graph.bin": 87880636,
+    "pack.sqlite": 16322560
+   },
+   "v": 3
+  },
+  {
    "id": "us-norcal",
    "group": "us",
    "cc": "US",
