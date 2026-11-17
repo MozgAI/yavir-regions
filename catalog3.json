@@ -989,10 +989,11 @@
    ],
    "files": {
     "map.pmtiles": 156654681,
-    "graph.bin": 426168832,
-    "pack.sqlite": 51433472
+    "graph.bin": 426625126,
+    "pack.sqlite": 51732480
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "es-ceuta",
@@ -1009,10 +1010,11 @@
    ],
    "files": {
     "map.pmtiles": 1026056,
-    "graph.bin": 761680,
-    "pack.sqlite": 229376
+    "graph.bin": 762310,
+    "pack.sqlite": 241664
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "es-extremadura",
@@ -1029,10 +1031,11 @@
    ],
    "files": {
     "map.pmtiles": 46867107,
-    "graph.bin": 70841332,
-    "pack.sqlite": 9084928
+    "graph.bin": 70854142,
+    "pack.sqlite": 9043968
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "es-galicia",
@@ -1049,10 +1052,11 @@
    ],
    "files": {
     "map.pmtiles": 103074235,
-    "graph.bin": 176693250,
-    "pack.sqlite": 21610496
+    "graph.bin": 176778642,
+    "pack.sqlite": 21991424
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "es-islas-baleares",
@@ -1069,10 +1073,11 @@
    ],
    "files": {
     "map.pmtiles": 24794719,
-    "graph.bin": 34539928,
-    "pack.sqlite": 12496896
+    "graph.bin": 34561252,
+    "pack.sqlite": 12611584
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "es-la-rioja",
