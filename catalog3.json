@@ -622,6 +622,106 @@
    "v": 3
   },
   {
+   "id": "de-rheinland-pfalz",
+   "group": "eu",
+   "cc": "DE",
+   "name": "Rheinland-Pfalz",
+   "note": "Germany",
+   "parent": "Germany",
+   "bbox": [
+    6.1091,
+    48.9638,
+    8.5112,
+    50.944
+   ],
+   "files": {
+    "map.pmtiles": 175172081,
+    "graph.bin": 176964402,
+    "pack.sqlite": 65765376
+   },
+   "v": 3
+  },
+  {
+   "id": "de-saarland",
+   "group": "eu",
+   "cc": "DE",
+   "name": "Saarland",
+   "note": "Germany",
+   "parent": "Germany",
+   "bbox": [
+    6.3545,
+    49.1081,
+    7.4063,
+    49.6415
+   ],
+   "files": {
+    "map.pmtiles": 29333463,
+    "graph.bin": 23459164,
+    "pack.sqlite": 16723968
+   },
+   "v": 3
+  },
+  {
+   "id": "de-sachsen",
+   "group": "eu",
+   "cc": "DE",
+   "name": "Sachsen",
+   "note": "Germany",
+   "parent": "Germany",
+   "bbox": [
+    11.8668,
+    50.1666,
+    15.0508,
+    51.6874
+   ],
+   "files": {
+    "map.pmtiles": 153884238,
+    "graph.bin": 125885008,
+    "pack.sqlite": 55812096
+   },
+   "v": 3
+  },
+  {
+   "id": "de-sachsen-anhalt",
+   "group": "eu",
+   "cc": "DE",
+   "name": "Sachsen-Anhalt",
+   "note": "Germany",
+   "parent": "Germany",
+   "bbox": [
+    10.5473,
+    50.9289,
+    13.2127,
+    53.0566
+   ],
+   "files": {
+    "map.pmtiles": 118260373,
+    "graph.bin": 87811102,
+    "pack.sqlite": 34443264
+   },
+   "v": 3
+  },
+  {
+   "id": "de-schleswig-holstein",
+   "group": "eu",
+   "cc": "DE",
+   "name": "Schleswig-Holstein",
+   "note": "Germany",
+   "parent": "Germany",
+   "bbox": [
+    7.4646,
+    53.3569,
+    11.7993,
+    55.1463
+   ],
+   "files": {
+    "map.pmtiles": 112049742,
+    "graph.bin": 67312004,
+    "pack.sqlite": 41955328
+   },
+   "v": 3
+  },
+  {
    "id": "denmark",
    "group": "eu",
    "cc": "DK",
