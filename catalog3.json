@@ -2459,10 +2459,11 @@
    ],
    "files": {
     "map.pmtiles": 23437451,
-    "graph.bin": 11971420,
-    "pack.sqlite": 14077952
+    "graph.bin": 12067030,
+    "pack.sqlite": 14106624
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "nl-zuid-holland",
@@ -2479,10 +2480,11 @@
    ],
    "files": {
     "map.pmtiles": 63636800,
-    "graph.bin": 48967804,
-    "pack.sqlite": 103763968
+    "graph.bin": 49698988,
+    "pack.sqlite": 103829504
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "norway",
@@ -2499,10 +2501,11 @@
    ],
    "files": {
     "map.pmtiles": 1670836711,
-    "graph.bin": 735036796,
-    "pack.sqlite": 151977984
+    "graph.bin": 735454366,
+    "pack.sqlite": 152215552
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "pl-dolnoslaskie",
@@ -2519,10 +2522,11 @@
    ],
    "files": {
     "map.pmtiles": 115497763,
-    "graph.bin": 108764834,
-    "pack.sqlite": 24346624
+    "graph.bin": 108892526,
+    "pack.sqlite": 24649728
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "pl-kujawsko-pomorskie",
@@ -2539,10 +2543,11 @@
    ],
    "files": {
     "map.pmtiles": 89402426,
-    "graph.bin": 53012080,
-    "pack.sqlite": 14688256
+    "graph.bin": 53143468,
+    "pack.sqlite": 14790656
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "pl-lubelskie",
