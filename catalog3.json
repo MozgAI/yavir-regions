@@ -162,6 +162,86 @@
    "v": 3
   },
   {
+   "id": "prince-edward-island",
+   "group": "ca",
+   "cc": "CA",
+   "name": "Prince Edward Island",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -64.6024,
+    45.825,
+    -61.2488,
+    47.6857
+   ],
+   "files": {
+    "map.pmtiles": 13513072,
+    "graph.bin": 7914214,
+    "pack.sqlite": 3985408
+   },
+   "v": 3
+  },
+  {
+   "id": "quebec",
+   "group": "ca",
+   "cc": "CA",
+   "name": "Quebec",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -79.8404,
+    44.9855,
+    -57.0891,
+    62.6262
+   ],
+   "files": {
+    "map.pmtiles": 1416704319,
+    "graph.bin": 232520660,
+    "pack.sqlite": 99909632
+   },
+   "v": 3
+  },
+  {
+   "id": "saskatchewan",
+   "group": "ca",
+   "cc": "CA",
+   "name": "Saskatchewan",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -110.0069,
+    48.9876,
+    -101.3614,
+    60.0005
+   ],
+   "files": {
+    "map.pmtiles": 223697713,
+    "graph.bin": 44066768,
+    "pack.sqlite": 12058624
+   },
+   "v": 3
+  },
+  {
+   "id": "yukon",
+   "group": "ca",
+   "cc": "CA",
+   "name": "Yukon",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -141.2389,
+    59.9974,
+    -123.8021,
+    70.1629
+   ],
+   "files": {
+    "map.pmtiles": 149059534,
+    "graph.bin": 17224098,
+    "pack.sqlite": 581632
+   },
+   "v": 3
+  },
+  {
    "id": "ukraine",
    "group": "eu",
    "cc": "UA",
