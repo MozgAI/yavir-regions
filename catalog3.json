@@ -1354,10 +1354,11 @@
    ],
    "files": {
     "map.pmtiles": 161326917,
-    "graph.bin": 182110946,
-    "pack.sqlite": 49459200
+    "graph.bin": 182150804,
+    "pack.sqlite": 49381376
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "fr-centre",
@@ -1374,10 +1375,11 @@
    ],
    "files": {
     "map.pmtiles": 157286802,
-    "graph.bin": 125944318,
-    "pack.sqlite": 30527488
+    "graph.bin": 125974660,
+    "pack.sqlite": 30478336
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "fr-champagne-ardenne",
@@ -1394,10 +1396,11 @@
    ],
    "files": {
     "map.pmtiles": 88233776,
-    "graph.bin": 71077054,
-    "pack.sqlite": 12587008
+    "graph.bin": 71081038,
+    "pack.sqlite": 12615680
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "fr-corse",
@@ -1414,10 +1417,11 @@
    ],
    "files": {
     "map.pmtiles": 23925839,
-    "graph.bin": 34229664,
-    "pack.sqlite": 3420160
+    "graph.bin": 34234962,
+    "pack.sqlite": 3538944
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "fr-franche-comte",
@@ -1434,10 +1438,11 @@
    ],
    "files": {
     "map.pmtiles": 97898987,
-    "graph.bin": 83098804,
-    "pack.sqlite": 20897792
+    "graph.bin": 83130598,
+    "pack.sqlite": 20885504
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "fr-haute-normandie",
