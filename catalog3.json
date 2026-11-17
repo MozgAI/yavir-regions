@@ -242,6 +242,106 @@
    "v": 3
   },
   {
+   "id": "andorra",
+   "group": "eu",
+   "cc": "AD",
+   "name": "Andorra",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    1.4124,
+    42.4276,
+    1.7875,
+    42.6572
+   ],
+   "files": {
+    "map.pmtiles": 4256368,
+    "graph.bin": 4137994,
+    "pack.sqlite": 462848
+   },
+   "v": 3
+  },
+  {
+   "id": "albania",
+   "group": "eu",
+   "cc": "AL",
+   "name": "Albania",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    18.8965,
+    39.6274,
+    21.0629,
+    42.6631
+   ],
+   "files": {
+    "map.pmtiles": 51995842,
+    "graph.bin": 101723956,
+    "pack.sqlite": 5668864
+   },
+   "v": 3
+  },
+  {
+   "id": "austria",
+   "group": "eu",
+   "cc": "AT",
+   "name": "Austria",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    9.5268,
+    46.3698,
+    17.1641,
+    49.024
+   ],
+   "files": {
+    "map.pmtiles": 561256411,
+    "graph.bin": 651328988,
+    "pack.sqlite": 124542976
+   },
+   "v": 3
+  },
+  {
+   "id": "belarus",
+   "group": "eu",
+   "cc": "BY",
+   "name": "Belarus",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    23.1748,
+    51.2344,
+    32.7695,
+    56.1739
+   ],
+   "files": {
+    "map.pmtiles": 432835881,
+    "graph.bin": 178569484,
+    "pack.sqlite": 67993600
+   },
+   "v": 3
+  },
+  {
+   "id": "azores",
+   "group": "eu",
+   "cc": "PT",
+   "name": "Azores",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -31.5729,
+    35.6779,
+    -23.7181,
+    40.0757
+   ],
+   "files": {
+    "map.pmtiles": 12334499,
+    "graph.bin": 21576088,
+    "pack.sqlite": 2121728
+   },
+   "v": 3
+  },
+  {
    "id": "ukraine",
    "group": "eu",
    "cc": "UA",
