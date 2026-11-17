@@ -562,6 +562,106 @@
    "v": 3
   },
   {
+   "id": "us-nevada",
+   "group": "us",
+   "cc": "US",
+   "name": "Nevada",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -120.0074,
+    35.0005,
+    -114.0379,
+    42.0039
+   ],
+   "files": {
+    "map.pmtiles": 104059001,
+    "graph.bin": 174616076,
+    "pack.sqlite": 22097920
+   },
+   "v": 3
+  },
+  {
+   "id": "us-new-hampshire",
+   "group": "us",
+   "cc": "US",
+   "name": "New Hampshire",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -72.5588,
+    42.6967,
+    -70.4869,
+    45.31
+   ],
+   "files": {
+    "map.pmtiles": 54782535,
+    "graph.bin": 73824394,
+    "pack.sqlite": 12787712
+   },
+   "v": 3
+  },
+  {
+   "id": "us-new-jersey",
+   "group": "us",
+   "cc": "US",
+   "name": "New Jersey",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -75.5788,
+    38.7543,
+    -73.679,
+    41.3581
+   ],
+   "files": {
+    "map.pmtiles": 107318207,
+    "graph.bin": 115158716,
+    "pack.sqlite": 40628224
+   },
+   "v": 3
+  },
+  {
+   "id": "us-new-mexico",
+   "group": "us",
+   "cc": "US",
+   "name": "New Mexico",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -109.0504,
+    31.3304,
+    -102.9979,
+    37.0018
+   ],
+   "files": {
+    "map.pmtiles": 121060922,
+    "graph.bin": 157058122,
+    "pack.sqlite": 17616896
+   },
+   "v": 3
+  },
+  {
+   "id": "us-new-york",
+   "group": "us",
+   "cc": "US",
+   "name": "New York",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -79.7648,
+    40.4392,
+    -71.6608,
+    45.0177
+   ],
+   "files": {
+    "map.pmtiles": 221234176,
+    "graph.bin": 247347518,
+    "pack.sqlite": 309178368
+   },
+   "v": 3
+  },
+  {
    "id": "us-norcal",
    "group": "us",
    "cc": "US",
