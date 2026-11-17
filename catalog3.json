@@ -464,10 +464,11 @@
    ],
    "files": {
     "map.pmtiles": 565655280,
-    "graph.bin": 364856386,
-    "pack.sqlite": 116600832
+    "graph.bin": 365202760,
+    "pack.sqlite": 119025664
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "de-baden-wuerttemberg",
@@ -804,10 +805,11 @@
    ],
    "files": {
     "map.pmtiles": 294517690,
-    "graph.bin": 190054756,
-    "pack.sqlite": 144539648
+    "graph.bin": 190637068,
+    "pack.sqlite": 144736256
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "estonia",
@@ -824,10 +826,11 @@
    ],
    "files": {
     "map.pmtiles": 124107048,
-    "graph.bin": 78703888,
-    "pack.sqlite": 16035840
+    "graph.bin": 79061386,
+    "pack.sqlite": 16519168
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "es-andalucia",
@@ -1204,10 +1207,11 @@
    ],
    "files": {
     "map.pmtiles": 1019278904,
-    "graph.bin": 590641260,
-    "pack.sqlite": 83755008
+    "graph.bin": 591033612,
+    "pack.sqlite": 88010752
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "faroe-islands",
@@ -1224,10 +1228,11 @@
    ],
    "files": {
     "map.pmtiles": 7776452,
-    "graph.bin": 7151326,
-    "pack.sqlite": 1617920
+    "graph.bin": 7151884,
+    "pack.sqlite": 1642496
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "fr-alsace",
