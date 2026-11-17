@@ -502,6 +502,106 @@
    "v": 3
   },
   {
+   "id": "fr-alsace",
+   "group": "eu",
+   "cc": "FR",
+   "name": "Alsace",
+   "note": "France",
+   "parent": "France",
+   "bbox": [
+    6.8389,
+    47.418,
+    8.2355,
+    49.079
+   ],
+   "files": {
+    "map.pmtiles": 69464614,
+    "graph.bin": 66763044,
+    "pack.sqlite": 11456512
+   },
+   "v": 3
+  },
+  {
+   "id": "fr-aquitaine",
+   "group": "eu",
+   "cc": "FR",
+   "name": "Aquitaine",
+   "note": "France",
+   "parent": "France",
+   "bbox": [
+    -1.8428,
+    42.7733,
+    1.4506,
+    45.7172
+   ],
+   "files": {
+    "map.pmtiles": 164879489,
+    "graph.bin": 175643306,
+    "pack.sqlite": 49586176
+   },
+   "v": 3
+  },
+  {
+   "id": "fr-auvergne",
+   "group": "eu",
+   "cc": "FR",
+   "name": "Auvergne",
+   "note": "France",
+   "parent": "France",
+   "bbox": [
+    2.0605,
+    44.6146,
+    4.4929,
+    46.8067
+   ],
+   "files": {
+    "map.pmtiles": 124171753,
+    "graph.bin": 122409962,
+    "pack.sqlite": 28688384
+   },
+   "v": 3
+  },
+  {
+   "id": "fr-basse-normandie",
+   "group": "eu",
+   "cc": "FR",
+   "name": "Basse-Normandie",
+   "note": "France",
+   "parent": "France",
+   "bbox": [
+    -2.0875,
+    48.178,
+    0.9791,
+    49.8852
+   ],
+   "files": {
+    "map.pmtiles": 87159031,
+    "graph.bin": 71067702,
+    "pack.sqlite": 28270592
+   },
+   "v": 3
+  },
+  {
+   "id": "fr-bourgogne",
+   "group": "eu",
+   "cc": "FR",
+   "name": "Bourgogne",
+   "note": "France",
+   "parent": "France",
+   "bbox": [
+    2.8433,
+    46.1548,
+    5.52,
+    48.4014
+   ],
+   "files": {
+    "map.pmtiles": 160669091,
+    "graph.bin": 116383766,
+    "pack.sqlite": 25788416
+   },
+   "v": 3
+  },
+  {
    "id": "croatia",
    "group": "eu",
    "cc": "HR",
