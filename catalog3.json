@@ -2142,6 +2142,66 @@
    "v": 3
   },
   {
+   "id": "pl-pomorskie",
+   "group": "eu",
+   "cc": "PL",
+   "name": "Pomorskie",
+   "note": "Poland",
+   "parent": "Poland",
+   "bbox": [
+    16.687,
+    53.4806,
+    19.6607,
+    55.0795
+   ],
+   "files": {
+    "map.pmtiles": 88240756,
+    "graph.bin": 63772784,
+    "pack.sqlite": 20135936
+   },
+   "v": 3
+  },
+  {
+   "id": "pl-warminsko-mazurskie",
+   "group": "eu",
+   "cc": "PL",
+   "name": "Warmińsko-mazurskie",
+   "note": "Poland",
+   "parent": "Poland",
+   "bbox": [
+    19.1167,
+    53.1257,
+    22.8206,
+    54.5146
+   ],
+   "files": {
+    "map.pmtiles": 92950428,
+    "graph.bin": 50362450,
+    "pack.sqlite": 8843264
+   },
+   "v": 3
+  },
+  {
+   "id": "pl-wielkopolskie",
+   "group": "eu",
+   "cc": "PL",
+   "name": "Wielkopolskie",
+   "note": "Poland",
+   "parent": "Poland",
+   "bbox": [
+    15.7604,
+    51.084,
+    19.1293,
+    53.681
+   ],
+   "files": {
+    "map.pmtiles": 109559676,
+    "graph.bin": 80070756,
+    "pack.sqlite": 31363072
+   },
+   "v": 3
+  },
+  {
    "id": "pl-lodzkie",
    "group": "eu",
    "cc": "PL",
@@ -2158,6 +2218,46 @@
     "map.pmtiles": 102700454,
     "graph.bin": 51632210,
     "pack.sqlite": 19845120
+   },
+   "v": 3
+  },
+  {
+   "id": "pl-slaskie",
+   "group": "eu",
+   "cc": "PL",
+   "name": "Śląskie",
+   "note": "Poland",
+   "parent": "Poland",
+   "bbox": [
+    18.0221,
+    49.38,
+    19.9854,
+    51.1129
+   ],
+   "files": {
+    "map.pmtiles": 106238410,
+    "graph.bin": 86647362,
+    "pack.sqlite": 41418752
+   },
+   "v": 3
+  },
+  {
+   "id": "pl-swietokrzyskie",
+   "group": "eu",
+   "cc": "PL",
+   "name": "Świętokrzyskie",
+   "note": "Poland",
+   "parent": "Poland",
+   "bbox": [
+    19.699,
+    50.1797,
+    21.8758,
+    51.3482
+   ],
+   "files": {
+    "map.pmtiles": 74543543,
+    "graph.bin": 48732946,
+    "pack.sqlite": 9650176
    },
    "v": 3
   },
