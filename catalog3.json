@@ -762,6 +762,106 @@
    "v": 3
   },
   {
+   "id": "us-rhode-island",
+   "group": "us",
+   "cc": "US",
+   "name": "Rhode Island",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -71.9146,
+    40.9992,
+    -71.0637,
+    42.0194
+   ],
+   "files": {
+    "map.pmtiles": 34449038,
+    "graph.bin": 19176580,
+    "pack.sqlite": 7004160
+   },
+   "v": 3
+  },
+  {
+   "id": "us-south-carolina",
+   "group": "us",
+   "cc": "US",
+   "name": "South Carolina",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -83.3562,
+    32.0297,
+    -78.5187,
+    35.2184
+   ],
+   "files": {
+    "map.pmtiles": 120437316,
+    "graph.bin": 156741490,
+    "pack.sqlite": 44683264
+   },
+   "v": 3
+  },
+  {
+   "id": "us-south-dakota",
+   "group": "us",
+   "cc": "US",
+   "name": "South Dakota",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -104.0588,
+    42.4774,
+    -96.436,
+    45.9483
+   ],
+   "files": {
+    "map.pmtiles": 66171340,
+    "graph.bin": 67318890,
+    "pack.sqlite": 7000064
+   },
+   "v": 3
+  },
+  {
+   "id": "us-tennessee",
+   "group": "us",
+   "cc": "US",
+   "name": "Tennessee",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -90.3133,
+    34.9827,
+    -81.6442,
+    36.6808
+   ],
+   "files": {
+    "map.pmtiles": 130171033,
+    "graph.bin": 184589512,
+    "pack.sqlite": 41033728
+   },
+   "v": 3
+  },
+  {
+   "id": "us-texas",
+   "group": "us",
+   "cc": "US",
+   "name": "Texas",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -106.6494,
+    25.6955,
+    -93.019,
+    36.5215
+   ],
+   "files": {
+    "map.pmtiles": 437108104,
+    "graph.bin": 586546790,
+    "pack.sqlite": 190451712
+   },
+   "v": 3
+  },
+  {
    "id": "us-norcal",
    "group": "us",
    "cc": "US",
