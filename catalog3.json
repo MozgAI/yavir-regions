@@ -302,6 +302,66 @@
    "v": 3
   },
   {
+   "id": "bosnia-herzegovina",
+   "group": "eu",
+   "cc": "BA",
+   "name": "Bosnia-Herzegovina",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    15.7156,
+    42.5524,
+    19.6264,
+    45.278
+   ],
+   "files": {
+    "map.pmtiles": 192522561,
+    "graph.bin": 158889468,
+    "pack.sqlite": 14508032
+   },
+   "v": 3
+  },
+  {
+   "id": "belgium",
+   "group": "eu",
+   "cc": "BE",
+   "name": "Belgium",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    2.3407,
+    49.4949,
+    6.4103,
+    51.5984
+   ],
+   "files": {
+    "map.pmtiles": 344239203,
+    "graph.bin": 217869398,
+    "pack.sqlite": 224940032
+   },
+   "v": 3
+  },
+  {
+   "id": "bulgaria",
+   "group": "eu",
+   "cc": "BG",
+   "name": "Bulgaria",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    22.3487,
+    41.2268,
+    29.1882,
+    44.2178
+   ],
+   "files": {
+    "map.pmtiles": 204254723,
+    "graph.bin": 198407620,
+    "pack.sqlite": 22294528
+   },
+   "v": 3
+  },
+  {
    "id": "belarus",
    "group": "eu",
    "cc": "BY",
@@ -318,6 +378,46 @@
     "map.pmtiles": 432835881,
     "graph.bin": 178569484,
     "pack.sqlite": 67993600
+   },
+   "v": 3
+  },
+  {
+   "id": "cyprus",
+   "group": "eu",
+   "cc": "CY",
+   "name": "Cyprus",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    31.9524,
+    34.2337,
+    34.9615,
+    36.0032
+   ],
+   "files": {
+    "map.pmtiles": 30314317,
+    "graph.bin": 55703220,
+    "pack.sqlite": 6279168
+   },
+   "v": 3
+  },
+  {
+   "id": "croatia",
+   "group": "eu",
+   "cc": "HR",
+   "name": "Croatia",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    13.0892,
+    42.1648,
+    19.46,
+    46.5576
+   ],
+   "files": {
+    "map.pmtiles": 222358448,
+    "graph.bin": 182214192,
+    "pack.sqlite": 26398720
    },
    "v": 3
   },
