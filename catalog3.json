@@ -262,6 +262,106 @@
    "v": 3
   },
   {
+   "id": "us-illinois",
+   "group": "us",
+   "cc": "US",
+   "name": "Illinois",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -91.5161,
+    36.9673,
+    -87.4926,
+    42.5094
+   ],
+   "files": {
+    "map.pmtiles": 220972466,
+    "graph.bin": 220714570,
+    "pack.sqlite": 86286336
+   },
+   "v": 3
+  },
+  {
+   "id": "us-indiana",
+   "group": "us",
+   "cc": "US",
+   "name": "Indiana",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -88.1033,
+    37.7691,
+    -84.7804,
+    41.763
+   ],
+   "files": {
+    "map.pmtiles": 137301690,
+    "graph.bin": 175452392,
+    "pack.sqlite": 58834944
+   },
+   "v": 3
+  },
+  {
+   "id": "us-iowa",
+   "group": "us",
+   "cc": "US",
+   "name": "Iowa",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -96.6426,
+    40.3727,
+    -90.1358,
+    43.5018
+   ],
+   "files": {
+    "map.pmtiles": 114700825,
+    "graph.bin": 101357662,
+    "pack.sqlite": 22695936
+   },
+   "v": 3
+  },
+  {
+   "id": "us-kansas",
+   "group": "us",
+   "cc": "US",
+   "name": "Kansas",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -102.0535,
+    36.9914,
+    -94.5893,
+    40.0037
+   ],
+   "files": {
+    "map.pmtiles": 122840612,
+    "graph.bin": 117110074,
+    "pack.sqlite": 24698880
+   },
+   "v": 3
+  },
+  {
+   "id": "us-kentucky",
+   "group": "us",
+   "cc": "US",
+   "name": "Kentucky",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -89.5812,
+    36.4933,
+    -81.9551,
+    39.1483
+   ],
+   "files": {
+    "map.pmtiles": 106219248,
+    "graph.bin": 210351592,
+    "pack.sqlite": 49344512
+   },
+   "v": 3
+  },
+  {
    "id": "us-norcal",
    "group": "us",
    "cc": "US",
