@@ -1062,6 +1062,86 @@
    "v": 3
   },
   {
+   "id": "es-murcia",
+   "group": "eu",
+   "cc": "ES",
+   "name": "Murcia",
+   "note": "Spain",
+   "parent": "Spain",
+   "bbox": [
+    -2.3512,
+    37.1121,
+    -0.2472,
+    38.7602
+   ],
+   "files": {
+    "map.pmtiles": 31824114,
+    "graph.bin": 69525920,
+    "pack.sqlite": 6414336
+   },
+   "v": 3
+  },
+  {
+   "id": "es-navarra",
+   "group": "eu",
+   "cc": "ES",
+   "name": "Navarra",
+   "note": "Spain",
+   "parent": "Spain",
+   "bbox": [
+    -2.5023,
+    41.9061,
+    -0.7165,
+    43.3165
+   ],
+   "files": {
+    "map.pmtiles": 43569527,
+    "graph.bin": 68475790,
+    "pack.sqlite": 5001216
+   },
+   "v": 3
+  },
+  {
+   "id": "es-pais-vasco",
+   "group": "eu",
+   "cc": "ES",
+   "name": "País Vasco",
+   "note": "Spain",
+   "parent": "Spain",
+   "bbox": [
+    -3.4543,
+    42.4692,
+    -1.6663,
+    43.7473
+   ],
+   "files": {
+    "map.pmtiles": 59257236,
+    "graph.bin": 80817148,
+    "pack.sqlite": 12464128
+   },
+   "v": 3
+  },
+  {
+   "id": "es-valencia",
+   "group": "eu",
+   "cc": "ES",
+   "name": "Valencia",
+   "note": "Spain",
+   "parent": "Spain",
+   "bbox": [
+    -1.5316,
+    37.8434,
+    1.6864,
+    40.7933
+   ],
+   "files": {
+    "map.pmtiles": 83014290,
+    "graph.bin": 183345638,
+    "pack.sqlite": 31748096
+   },
+   "v": 3
+  },
+  {
    "id": "finland",
    "group": "eu",
    "cc": "FI",
@@ -2638,6 +2718,26 @@
     "map.pmtiles": 180066171,
     "graph.bin": 250296248,
     "pack.sqlite": 121729024
+   },
+   "v": 3
+  },
+  {
+   "id": "sweden",
+   "group": "eu",
+   "cc": "SE",
+   "name": "Sweden",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    10.5414,
+    55.0265,
+    24.2247,
+    69.0664
+   ],
+   "files": {
+    "map.pmtiles": 1435675979,
+    "graph.bin": 744378178,
+    "pack.sqlite": 92815360
    },
    "v": 3
   },
