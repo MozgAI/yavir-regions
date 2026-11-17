@@ -362,6 +362,106 @@
    "v": 3
   },
   {
+   "id": "us-louisiana",
+   "group": "us",
+   "cc": "US",
+   "name": "Louisiana",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -94.0438,
+    28.1445,
+    -88.6668,
+    33.0202
+   ],
+   "files": {
+    "map.pmtiles": 110423142,
+    "graph.bin": 101959766,
+    "pack.sqlite": 37163008
+   },
+   "v": 3
+  },
+  {
+   "id": "us-maine",
+   "group": "us",
+   "cc": "US",
+   "name": "Maine",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -71.0889,
+    42.8544,
+    -66.8716,
+    47.4622
+   ],
+   "files": {
+    "map.pmtiles": 94522474,
+    "graph.bin": 92436766,
+    "pack.sqlite": 41148416
+   },
+   "v": 3
+  },
+  {
+   "id": "us-maryland",
+   "group": "us",
+   "cc": "US",
+   "name": "Maryland",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -79.4886,
+    37.884,
+    -74.9541,
+    39.7268
+   ],
+   "files": {
+    "map.pmtiles": 111538506,
+    "graph.bin": 121116770,
+    "pack.sqlite": 84525056
+   },
+   "v": 3
+  },
+  {
+   "id": "us-massachusetts",
+   "group": "us",
+   "cc": "US",
+   "name": "Massachusetts",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -73.511,
+    40.8829,
+    -68.7344,
+    42.8877
+   ],
+   "files": {
+    "map.pmtiles": 118778091,
+    "graph.bin": 178529398,
+    "pack.sqlite": 109613056
+   },
+   "v": 3
+  },
+  {
+   "id": "us-michigan",
+   "group": "us",
+   "cc": "US",
+   "name": "Michigan",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -90.4198,
+    41.6944,
+    -82.0691,
+    48.3502
+   ],
+   "files": {
+    "map.pmtiles": 232561700,
+    "graph.bin": 257491192,
+    "pack.sqlite": 54824960
+   },
+   "v": 3
+  },
+  {
    "id": "us-norcal",
    "group": "us",
    "cc": "US",
