@@ -339,10 +339,11 @@
    ],
    "files": {
     "map.pmtiles": 192522561,
-    "graph.bin": 158889468,
-    "pack.sqlite": 14508032
+    "graph.bin": 158953962,
+    "pack.sqlite": 14700544
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "belgium",
@@ -359,10 +360,11 @@
    ],
    "files": {
     "map.pmtiles": 344239203,
-    "graph.bin": 217869398,
-    "pack.sqlite": 224940032
+    "graph.bin": 218198114,
+    "pack.sqlite": 227065856
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "bulgaria",
@@ -379,10 +381,11 @@
    ],
    "files": {
     "map.pmtiles": 204254723,
-    "graph.bin": 198407620,
-    "pack.sqlite": 22294528
+    "graph.bin": 198555466,
+    "pack.sqlite": 24760320
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "belarus",
@@ -440,10 +443,11 @@
    ],
    "files": {
     "map.pmtiles": 30314317,
-    "graph.bin": 55703220,
-    "pack.sqlite": 6279168
+    "graph.bin": 55777854,
+    "pack.sqlite": 8019968
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "czech-republic",
@@ -1800,10 +1804,11 @@
    ],
    "files": {
     "map.pmtiles": 222358448,
-    "graph.bin": 182214192,
-    "pack.sqlite": 26398720
+    "graph.bin": 182398716,
+    "pack.sqlite": 27226112
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "hungary",
