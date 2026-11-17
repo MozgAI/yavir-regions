@@ -737,10 +737,11 @@
    ],
    "files": {
     "map.pmtiles": 153884238,
-    "graph.bin": 125885008,
-    "pack.sqlite": 55812096
+    "graph.bin": 126078070,
+    "pack.sqlite": 55844864
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "de-sachsen-anhalt",
@@ -757,10 +758,11 @@
    ],
    "files": {
     "map.pmtiles": 118260373,
-    "graph.bin": 87811102,
-    "pack.sqlite": 34443264
+    "graph.bin": 87894358,
+    "pack.sqlite": 34369536
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "de-schleswig-holstein",
@@ -777,10 +779,11 @@
    ],
    "files": {
     "map.pmtiles": 112049742,
-    "graph.bin": 67312004,
-    "pack.sqlite": 41955328
+    "graph.bin": 67414844,
+    "pack.sqlite": 41906176
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "de-thueringen",
@@ -797,10 +800,11 @@
    ],
    "files": {
     "map.pmtiles": 117763542,
-    "graph.bin": 99795564,
-    "pack.sqlite": 30322688
+    "graph.bin": 99834654,
+    "pack.sqlite": 30248960
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "denmark",
@@ -1824,10 +1828,11 @@
    ],
    "files": {
     "map.pmtiles": 273150571,
-    "graph.bin": 684347696,
-    "pack.sqlite": 28663808
+    "graph.bin": 684431666,
+    "pack.sqlite": 50200576
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "croatia",
