@@ -3279,10 +3279,11 @@
    ],
    "files": {
     "map.pmtiles": 199451102,
-    "graph.bin": 251058148,
-    "pack.sqlite": 68882432
+    "graph.bin": 251267776,
+    "pack.sqlite": 68976640
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "us-hawaii",
@@ -3299,10 +3300,11 @@
    ],
    "files": {
     "map.pmtiles": 15665024,
-    "graph.bin": 27304234,
-    "pack.sqlite": 4505600
+    "graph.bin": 27315544,
+    "pack.sqlite": 4521984
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "us-idaho",
@@ -3319,10 +3321,11 @@
    ],
    "files": {
     "map.pmtiles": 124696671,
-    "graph.bin": 232956068,
-    "pack.sqlite": 26505216
+    "graph.bin": 232984766,
+    "pack.sqlite": 26517504
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "us-illinois",
@@ -3339,10 +3342,11 @@
    ],
    "files": {
     "map.pmtiles": 220972466,
-    "graph.bin": 220714570,
-    "pack.sqlite": 86286336
+    "graph.bin": 220828576,
+    "pack.sqlite": 86417408
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "us-indiana",
@@ -3359,10 +3363,11 @@
    ],
    "files": {
     "map.pmtiles": 137301690,
-    "graph.bin": 175452392,
-    "pack.sqlite": 58834944
+    "graph.bin": 175588418,
+    "pack.sqlite": 59011072
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "us-iowa",
