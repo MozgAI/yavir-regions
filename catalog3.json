@@ -862,6 +862,106 @@
    "v": 3
   },
   {
+   "id": "us-utah",
+   "group": "us",
+   "cc": "US",
+   "name": "Utah",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -114.0556,
+    36.9963,
+    -109.0394,
+    42.0032
+   ],
+   "files": {
+    "map.pmtiles": 133556022,
+    "graph.bin": 175643578,
+    "pack.sqlite": 50548736
+   },
+   "v": 3
+  },
+  {
+   "id": "us-vermont",
+   "group": "us",
+   "cc": "US",
+   "name": "Vermont",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -73.4394,
+    42.725,
+    -71.4648,
+    45.0231
+   ],
+   "files": {
+    "map.pmtiles": 40335780,
+    "graph.bin": 52565514,
+    "pack.sqlite": 21938176
+   },
+   "v": 3
+  },
+  {
+   "id": "us-virginia",
+   "group": "us",
+   "cc": "US",
+   "name": "Virginia",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -83.6784,
+    36.538,
+    -74.2975,
+    39.469
+   ],
+   "files": {
+    "map.pmtiles": 221103153,
+    "graph.bin": 346111366,
+    "pack.sqlite": 138268672
+   },
+   "v": 3
+  },
+  {
+   "id": "us-washington",
+   "group": "us",
+   "cc": "US",
+   "name": "Washington",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -126.7423,
+    45.5388,
+    -116.9115,
+    49.0071
+   ],
+   "files": {
+    "map.pmtiles": 246827544,
+    "graph.bin": 283003876,
+    "pack.sqlite": 106053632
+   },
+   "v": 3
+  },
+  {
+   "id": "us-west-virginia",
+   "group": "us",
+   "cc": "US",
+   "name": "West Virginia",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -82.6496,
+    37.1986,
+    -77.7141,
+    40.6464
+   ],
+   "files": {
+    "map.pmtiles": 134591547,
+    "graph.bin": 100566390,
+    "pack.sqlite": 14049280
+   },
+   "v": 3
+  },
+  {
    "id": "us-norcal",
    "group": "us",
    "cc": "US",
