@@ -2564,10 +2564,11 @@
    ],
    "files": {
     "map.pmtiles": 108749176,
-    "graph.bin": 66597742,
-    "pack.sqlite": 16891904
+    "graph.bin": 66819790,
+    "pack.sqlite": 17289216
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "pl-lubuskie",
@@ -2584,10 +2585,11 @@
    ],
    "files": {
     "map.pmtiles": 57463923,
-    "graph.bin": 40686658,
-    "pack.sqlite": 9822208
+    "graph.bin": 40704928,
+    "pack.sqlite": 9912320
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "pl-mazowieckie",
@@ -2604,10 +2606,11 @@
    ],
    "files": {
     "map.pmtiles": 216513155,
-    "graph.bin": 115148916,
-    "pack.sqlite": 47005696
+    "graph.bin": 115467474,
+    "pack.sqlite": 47177728
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "pl-malopolskie",
@@ -2624,10 +2627,11 @@
    ],
    "files": {
     "map.pmtiles": 127739184,
-    "graph.bin": 97684720,
-    "pack.sqlite": 28581888
+    "graph.bin": 97834312,
+    "pack.sqlite": 28729344
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "pl-opolskie",
@@ -2784,10 +2788,11 @@
    ],
    "files": {
     "map.pmtiles": 102700454,
-    "graph.bin": 51632210,
-    "pack.sqlite": 19845120
+    "graph.bin": 51703442,
+    "pack.sqlite": 19898368
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "pl-slaskie",
