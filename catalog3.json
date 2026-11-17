@@ -1,0 +1,294 @@
+{
+ "version": 3,
+ "regions": [
+  {
+   "id": "ukraine",
+   "group": "eu",
+   "cc": "UA",
+   "name": "Ukraine (with Crimea)",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    22.1326,
+    44.0086,
+    40.2381,
+    52.3865
+   ],
+   "files": {
+    "map.pmtiles": 1069899433,
+    "graph.bin": 660833128,
+    "pack.sqlite": 146366464
+   },
+   "v": 3
+  },
+  {
+   "id": "us-alabama",
+   "group": "us",
+   "cc": "US",
+   "name": "us/alabama",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -88.4839,
+    29.9549,
+    -84.8834,
+    35.0087
+   ],
+   "files": {
+    "map.pmtiles": 144756235,
+    "graph.bin": 187395934,
+    "pack.sqlite": 33595392
+   },
+   "v": 3
+  },
+  {
+   "id": "us-alaska",
+   "group": "us",
+   "cc": "US",
+   "name": "us/alaska",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -180.0,
+    49.8089,
+    180.0,
+    72.9885
+   ],
+   "files": {
+    "map.pmtiles": 379138799,
+    "graph.bin": 46943710,
+    "pack.sqlite": 5730304
+   },
+   "v": 3
+  },
+  {
+   "id": "us-arizona",
+   "group": "us",
+   "cc": "US",
+   "name": "us/arizona",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -114.8224,
+    31.3266,
+    -109.0437,
+    37.006
+   ],
+   "files": {
+    "map.pmtiles": 213144189,
+    "graph.bin": 250756834,
+    "pack.sqlite": 95977472
+   },
+   "v": 3
+  },
+  {
+   "id": "us-arkansas",
+   "group": "us",
+   "cc": "US",
+   "name": "us/arkansas",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -94.6222,
+    33.0038,
+    -89.6399,
+    36.5159
+   ],
+   "files": {
+    "map.pmtiles": 90736806,
+    "graph.bin": 127751740,
+    "pack.sqlite": 36241408
+   },
+   "v": 3
+  },
+  {
+   "id": "banff-canmore",
+   "group": "ca",
+   "cc": "CA",
+   "name": "Banff & Canmore",
+   "note": "Alberta",
+   "parent": "Alberta",
+   "city": true,
+   "bbox": [
+    -115.80716,
+    50.8870856,
+    -115.1564517,
+    51.2934266
+   ],
+   "files": {
+    "map.pmtiles": 5037765,
+    "graph.bin": 2045450,
+    "pack.sqlite": 565248
+   },
+   "v": 2
+  },
+  {
+   "id": "edmonton",
+   "group": "ca",
+   "cc": "CA",
+   "name": "Edmonton",
+   "note": "Alberta",
+   "parent": "Alberta",
+   "city": true,
+   "bbox": [
+    -113.9100793,
+    53.3376718,
+    -113.1006645,
+    53.803383
+   ],
+   "files": {
+    "map.pmtiles": 36205345,
+    "graph.bin": 13523824,
+    "pack.sqlite": 9146368
+   },
+   "v": 2
+  },
+  {
+   "id": "lethbridge",
+   "group": "ca",
+   "cc": "CA",
+   "name": "Lethbridge",
+   "note": "Alberta",
+   "parent": "Alberta",
+   "city": true,
+   "bbox": [
+    -113.0044453,
+    49.5378984,
+    -112.4882828,
+    49.8563767
+   ],
+   "files": {
+    "map.pmtiles": 3876428,
+    "graph.bin": 1582852,
+    "pack.sqlite": 413696
+   },
+   "v": 2
+  },
+  {
+   "id": "red-deer",
+   "group": "ca",
+   "cc": "CA",
+   "name": "Red Deer",
+   "note": "Alberta",
+   "parent": "Alberta",
+   "city": true,
+   "bbox": [
+    -114.0965925,
+    52.0566046,
+    -113.6473822,
+    52.5504083
+   ],
+   "files": {
+    "map.pmtiles": 4130667,
+    "graph.bin": 1884068,
+    "pack.sqlite": 843776
+   },
+   "v": 2
+  },
+  {
+   "id": "regina",
+   "group": "ca",
+   "cc": "CA",
+   "name": "Regina",
+   "note": "Saskatchewan",
+   "parent": "Saskatchewan",
+   "city": true,
+   "bbox": [
+    -104.8470727,
+    50.3548996,
+    -104.4683322,
+    50.5717073
+   ],
+   "files": {
+    "map.pmtiles": 7475334,
+    "graph.bin": 1935664,
+    "pack.sqlite": 3727360
+   },
+   "v": 2
+  },
+  {
+   "id": "saskatoon",
+   "group": "ca",
+   "cc": "CA",
+   "name": "Saskatoon",
+   "note": "Saskatchewan",
+   "parent": "Saskatchewan",
+   "city": true,
+   "bbox": [
+    -107.4058898,
+    51.9790226,
+    -106.3664149,
+    52.2603048
+   ],
+   "files": {
+    "map.pmtiles": 8418652,
+    "graph.bin": 3233664,
+    "pack.sqlite": 4456448
+   },
+   "v": 2
+  },
+  {
+   "id": "seattle",
+   "group": "us",
+   "cc": "US",
+   "name": "Seattle",
+   "note": "Washington",
+   "parent": "Washington",
+   "city": true,
+   "bbox": [
+    -122.4358798,
+    47.4188536,
+    -122.0338921,
+    47.7938157
+   ],
+   "files": {
+    "map.pmtiles": 45367603,
+    "graph.bin": 14926514,
+    "pack.sqlite": 23900160
+   },
+   "v": 2
+  },
+  {
+   "id": "vancouver",
+   "group": "ca",
+   "cc": "CA",
+   "name": "Vancouver",
+   "note": "British Columbia",
+   "parent": "British Columbia",
+   "city": true,
+   "bbox": [
+    -123.293073,
+    48.9842354,
+    -122.4661114,
+    49.4189806
+   ],
+   "files": {
+    "map.pmtiles": 60195297,
+    "graph.bin": 22439522,
+    "pack.sqlite": 20598784
+   },
+   "v": 2
+  },
+  {
+   "id": "winnipeg",
+   "group": "ca",
+   "cc": "CA",
+   "name": "Winnipeg",
+   "note": "Manitoba",
+   "parent": "Manitoba",
+   "city": true,
+   "bbox": [
+    -97.5286434,
+    49.6644344,
+    -96.636878,
+    50.1204488
+   ],
+   "files": {
+    "map.pmtiles": 19073326,
+    "graph.bin": 6972402,
+    "pack.sqlite": 10391552
+   },
+   "v": 2
+  }
+ ]
+}
