@@ -1459,10 +1459,11 @@
    ],
    "files": {
     "map.pmtiles": 55800800,
-    "graph.bin": 46145232,
-    "pack.sqlite": 22278144
+    "graph.bin": 46178406,
+    "pack.sqlite": 22257664
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "fr-ile-de-france",
@@ -1479,10 +1480,11 @@
    ],
    "files": {
     "map.pmtiles": 98391071,
-    "graph.bin": 103640440,
-    "pack.sqlite": 58609664
+    "graph.bin": 103910038,
+    "pack.sqlite": 59047936
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "fr-languedoc-roussillon",
@@ -1499,10 +1501,11 @@
    ],
    "files": {
     "map.pmtiles": 133623779,
-    "graph.bin": 228357976,
-    "pack.sqlite": 34414592
+    "graph.bin": 228417286,
+    "pack.sqlite": 34316288
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "fr-limousin",
@@ -1519,10 +1522,11 @@
    ],
    "files": {
     "map.pmtiles": 86609520,
-    "graph.bin": 69046772,
-    "pack.sqlite": 10571776
+    "graph.bin": 69049346,
+    "pack.sqlite": 10559488
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "fr-lorraine",
@@ -1539,10 +1543,11 @@
    ],
    "files": {
     "map.pmtiles": 115401466,
-    "graph.bin": 104051152,
-    "pack.sqlite": 24907776
+    "graph.bin": 104085622,
+    "pack.sqlite": 25100288
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "fr-midi-pyrenees",
