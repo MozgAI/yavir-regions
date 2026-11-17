@@ -2,6 +2,66 @@
  "version": 3,
  "regions": [
   {
+   "id": "alberta",
+   "group": "ca",
+   "cc": "CA",
+   "name": "Alberta",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -120.0043,
+    48.9925,
+    -110.0018,
+    60.0025
+   ],
+   "files": {
+    "map.pmtiles": 465815851,
+    "graph.bin": 118435820,
+    "pack.sqlite": 46813184
+   },
+   "v": 3
+  },
+  {
+   "id": "british-columbia",
+   "group": "ca",
+   "cc": "CA",
+   "name": "British Columbia",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -141.7761,
+    46.4146,
+    -114.049,
+    60.0068
+   ],
+   "files": {
+    "map.pmtiles": 942003717,
+    "graph.bin": 244536118,
+    "pack.sqlite": 54812672
+   },
+   "v": 3
+  },
+  {
+   "id": "manitoba",
+   "group": "ca",
+   "cc": "CA",
+   "name": "Manitoba",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -102.014,
+    48.9906,
+    -88.1218,
+    60.0085
+   ],
+   "files": {
+    "map.pmtiles": 330908478,
+    "graph.bin": 42484452,
+    "pack.sqlite": 13996032
+   },
+   "v": 3
+  },
+  {
    "id": "ukraine",
    "group": "eu",
    "cc": "UA",
@@ -958,6 +1018,46 @@
     "map.pmtiles": 134591547,
     "graph.bin": 100566390,
     "pack.sqlite": 14049280
+   },
+   "v": 3
+  },
+  {
+   "id": "us-wisconsin",
+   "group": "us",
+   "cc": "US",
+   "name": "Wisconsin",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -92.8909,
+    42.489,
+    -86.2002,
+    47.4145
+   ],
+   "files": {
+    "map.pmtiles": 224843416,
+    "graph.bin": 187015240,
+    "pack.sqlite": 60080128
+   },
+   "v": 3
+  },
+  {
+   "id": "us-wyoming",
+   "group": "us",
+   "cc": "US",
+   "name": "Wyoming",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -111.0576,
+    40.9834,
+    -103.9413,
+    45.0122
+   ],
+   "files": {
+    "map.pmtiles": 121986758,
+    "graph.bin": 131076532,
+    "pack.sqlite": 6770688
    },
    "v": 3
   },
