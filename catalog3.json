@@ -62,6 +62,106 @@
    "v": 3
   },
   {
+   "id": "new-brunswick",
+   "group": "ca",
+   "cc": "CA",
+   "name": "New Brunswick",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -69.0597,
+    44.1921,
+    -62.8858,
+    48.3807
+   ],
+   "files": {
+    "map.pmtiles": 84603878,
+    "graph.bin": 35958216,
+    "pack.sqlite": 7262208
+   },
+   "v": 3
+  },
+  {
+   "id": "newfoundland-and-labrador",
+   "group": "ca",
+   "cc": "CA",
+   "name": "Newfoundland and Labrador",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -67.8708,
+    44.4579,
+    -44.1768,
+    60.5086
+   ],
+   "files": {
+    "map.pmtiles": 378831699,
+    "graph.bin": 39613598,
+    "pack.sqlite": 3481600
+   },
+   "v": 3
+  },
+  {
+   "id": "northwest-territories",
+   "group": "ca",
+   "cc": "CA",
+   "name": "Northwest Territories",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -136.6974,
+    59.9896,
+    -101.976,
+    81.6548
+   ],
+   "files": {
+    "map.pmtiles": 838860033,
+    "graph.bin": 15286990,
+    "pack.sqlite": 610304
+   },
+   "v": 3
+  },
+  {
+   "id": "nova-scotia",
+   "group": "ca",
+   "cc": "CA",
+   "name": "Nova Scotia",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -67.2473,
+    42.1069,
+    -58.2259,
+    47.8979
+   ],
+   "files": {
+    "map.pmtiles": 96750985,
+    "graph.bin": 87875022,
+    "pack.sqlite": 23666688
+   },
+   "v": 3
+  },
+  {
+   "id": "ontario",
+   "group": "ca",
+   "cc": "CA",
+   "name": "Ontario",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -95.1596,
+    41.6601,
+    -74.31,
+    57.5083
+   ],
+   "files": {
+    "map.pmtiles": 1059966004,
+    "graph.bin": 231916090,
+    "pack.sqlite": 152469504
+   },
+   "v": 3
+  },
+  {
    "id": "ukraine",
    "group": "eu",
    "cc": "UA",
