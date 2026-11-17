@@ -862,6 +862,106 @@
    "v": 3
   },
   {
+   "id": "es-castilla-y-leon",
+   "group": "eu",
+   "cc": "ES",
+   "name": "Castilla y León",
+   "note": "Spain",
+   "parent": "Spain",
+   "bbox": [
+    -7.0805,
+    40.0804,
+    -1.7661,
+    43.2409
+   ],
+   "files": {
+    "map.pmtiles": 201353979,
+    "graph.bin": 272331874,
+    "pack.sqlite": 32641024
+   },
+   "v": 3
+  },
+  {
+   "id": "es-castilla-la-mancha",
+   "group": "eu",
+   "cc": "ES",
+   "name": "Castilla-La Mancha",
+   "note": "Spain",
+   "parent": "Spain",
+   "bbox": [
+    -5.4111,
+    38.0201,
+    -0.9126,
+    41.3322
+   ],
+   "files": {
+    "map.pmtiles": 118600820,
+    "graph.bin": 194894572,
+    "pack.sqlite": 17854464
+   },
+   "v": 3
+  },
+  {
+   "id": "es-cataluna",
+   "group": "eu",
+   "cc": "ES",
+   "name": "Cataluña",
+   "note": "Spain",
+   "parent": "Spain",
+   "bbox": [
+    0.1564,
+    40.2124,
+    4.1748,
+    42.8632
+   ],
+   "files": {
+    "map.pmtiles": 156654681,
+    "graph.bin": 426168832,
+    "pack.sqlite": 51433472
+   },
+   "v": 3
+  },
+  {
+   "id": "es-ceuta",
+   "group": "eu",
+   "cc": "ES",
+   "name": "Ceuta",
+   "note": "Spain",
+   "parent": "Spain",
+   "bbox": [
+    -5.391,
+    35.867,
+    -5.2566,
+    35.9587
+   ],
+   "files": {
+    "map.pmtiles": 1026056,
+    "graph.bin": 761680,
+    "pack.sqlite": 229376
+   },
+   "v": 3
+  },
+  {
+   "id": "es-extremadura",
+   "group": "eu",
+   "cc": "ES",
+   "name": "Extremadura",
+   "note": "Spain",
+   "parent": "Spain",
+   "bbox": [
+    -7.5437,
+    37.9385,
+    -4.6424,
+    40.4891
+   ],
+   "files": {
+    "map.pmtiles": 46867107,
+    "graph.bin": 70841332,
+    "pack.sqlite": 9084928
+   },
+   "v": 3
+  },
+  {
    "id": "finland",
    "group": "eu",
    "cc": "FI",
