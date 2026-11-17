@@ -782,6 +782,86 @@
    "v": 3
   },
   {
+   "id": "es-andalucia",
+   "group": "eu",
+   "cc": "ES",
+   "name": "Andalucía",
+   "note": "Spain",
+   "parent": "Spain",
+   "bbox": [
+    -7.5247,
+    35.7064,
+    -1.3321,
+    38.7335
+   ],
+   "files": {
+    "map.pmtiles": 138422570,
+    "graph.bin": 244452394,
+    "pack.sqlite": 48869376
+   },
+   "v": 3
+  },
+  {
+   "id": "es-aragon",
+   "group": "eu",
+   "cc": "ES",
+   "name": "Aragón",
+   "note": "Spain",
+   "parent": "Spain",
+   "bbox": [
+    -2.1791,
+    39.8383,
+    0.7726,
+    42.9268
+   ],
+   "files": {
+    "map.pmtiles": 116632839,
+    "graph.bin": 154807480,
+    "pack.sqlite": 11538432
+   },
+   "v": 3
+  },
+  {
+   "id": "es-asturias",
+   "group": "eu",
+   "cc": "ES",
+   "name": "Asturias",
+   "note": "Spain",
+   "parent": "Spain",
+   "bbox": [
+    -7.1886,
+    42.8789,
+    -4.3996,
+    44.011
+   ],
+   "files": {
+    "map.pmtiles": 33511962,
+    "graph.bin": 57212680,
+    "pack.sqlite": 5865472
+   },
+   "v": 3
+  },
+  {
+   "id": "es-cantabria",
+   "group": "eu",
+   "cc": "ES",
+   "name": "Cantabria",
+   "note": "Spain",
+   "parent": "Spain",
+   "bbox": [
+    -4.8616,
+    42.7546,
+    -3.145,
+    43.8655
+   ],
+   "files": {
+    "map.pmtiles": 26171731,
+    "graph.bin": 39597988,
+    "pack.sqlite": 4603904
+   },
+   "v": 3
+  },
+  {
    "id": "finland",
    "group": "eu",
    "cc": "FI",
@@ -2358,6 +2438,26 @@
     "map.pmtiles": 180066171,
     "graph.bin": 250296248,
     "pack.sqlite": 121729024
+   },
+   "v": 3
+  },
+  {
+   "id": "slovenia",
+   "group": "eu",
+   "cc": "SI",
+   "name": "Slovenia",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    13.3051,
+    45.4208,
+    16.6003,
+    46.8796
+   ],
+   "files": {
+    "map.pmtiles": 249078014,
+    "graph.bin": 176476830,
+    "pack.sqlite": 26226688
    },
    "v": 3
   },
