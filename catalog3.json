@@ -1249,10 +1249,11 @@
    ],
    "files": {
     "map.pmtiles": 69464614,
-    "graph.bin": 66763044,
-    "pack.sqlite": 11456512
+    "graph.bin": 66790848,
+    "pack.sqlite": 11657216
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "fr-aquitaine",
@@ -1269,10 +1270,11 @@
    ],
    "files": {
     "map.pmtiles": 164879489,
-    "graph.bin": 175643306,
-    "pack.sqlite": 49586176
+    "graph.bin": 175677236,
+    "pack.sqlite": 49676288
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "fr-auvergne",
@@ -1289,10 +1291,11 @@
    ],
    "files": {
     "map.pmtiles": 124171753,
-    "graph.bin": 122409962,
-    "pack.sqlite": 28688384
+    "graph.bin": 122417162,
+    "pack.sqlite": 28659712
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "fr-basse-normandie",
@@ -1309,10 +1312,11 @@
    ],
    "files": {
     "map.pmtiles": 87159031,
-    "graph.bin": 71067702,
-    "pack.sqlite": 28270592
+    "graph.bin": 71078688,
+    "pack.sqlite": 28319744
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "fr-bourgogne",
@@ -1329,10 +1333,11 @@
    ],
    "files": {
     "map.pmtiles": 160669091,
-    "graph.bin": 116383766,
-    "pack.sqlite": 25788416
+    "graph.bin": 116394392,
+    "pack.sqlite": 25804800
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "fr-bretagne",
