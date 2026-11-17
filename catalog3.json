@@ -602,6 +602,106 @@
    "v": 3
   },
   {
+   "id": "fr-bretagne",
+   "group": "eu",
+   "cc": "FR",
+   "name": "Bretagne",
+   "note": "France",
+   "parent": "France",
+   "bbox": [
+    -5.8489,
+    47.0772,
+    -1.0145,
+    49.4002
+   ],
+   "files": {
+    "map.pmtiles": 161326917,
+    "graph.bin": 182110946,
+    "pack.sqlite": 49459200
+   },
+   "v": 3
+  },
+  {
+   "id": "fr-centre",
+   "group": "eu",
+   "cc": "FR",
+   "name": "Centre",
+   "note": "France",
+   "parent": "France",
+   "bbox": [
+    0.0515,
+    46.3459,
+    3.1299,
+    48.9423
+   ],
+   "files": {
+    "map.pmtiles": 157286802,
+    "graph.bin": 125944318,
+    "pack.sqlite": 30527488
+   },
+   "v": 3
+  },
+  {
+   "id": "fr-champagne-ardenne",
+   "group": "eu",
+   "cc": "FR",
+   "name": "Champagne Ardenne",
+   "note": "France",
+   "parent": "France",
+   "bbox": [
+    3.3824,
+    47.5755,
+    5.8922,
+    50.1701
+   ],
+   "files": {
+    "map.pmtiles": 88233776,
+    "graph.bin": 71077054,
+    "pack.sqlite": 12587008
+   },
+   "v": 3
+  },
+  {
+   "id": "fr-corse",
+   "group": "eu",
+   "cc": "FR",
+   "name": "Corse",
+   "note": "France",
+   "parent": "France",
+   "bbox": [
+    8.3179,
+    41.311,
+    9.7512,
+    43.1659
+   ],
+   "files": {
+    "map.pmtiles": 23925839,
+    "graph.bin": 34229664,
+    "pack.sqlite": 3420160
+   },
+   "v": 3
+  },
+  {
+   "id": "fr-franche-comte",
+   "group": "eu",
+   "cc": "FR",
+   "name": "Franche Comte",
+   "note": "France",
+   "parent": "France",
+   "bbox": [
+    5.2508,
+    46.2597,
+    7.1444,
+    48.0254
+   ],
+   "files": {
+    "map.pmtiles": 97898987,
+    "graph.bin": 83098804,
+    "pack.sqlite": 20897792
+   },
+   "v": 3
+  },
+  {
    "id": "croatia",
    "group": "eu",
    "cc": "HR",
