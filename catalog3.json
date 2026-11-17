@@ -1602,6 +1602,26 @@
    "v": 3
   },
   {
+   "id": "monaco",
+   "group": "eu",
+   "cc": "MC",
+   "name": "Monaco",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    7.4086,
+    43.4838,
+    7.5957,
+    43.7529
+   ],
+   "files": {
+    "map.pmtiles": 1555853,
+    "graph.bin": 285650,
+    "pack.sqlite": 241664
+   },
+   "v": 3
+  },
+  {
    "id": "moldova",
    "group": "eu",
    "cc": "MD",
@@ -1618,6 +1638,26 @@
     "map.pmtiles": 81252054,
     "graph.bin": 90162346,
     "pack.sqlite": 37462016
+   },
+   "v": 3
+  },
+  {
+   "id": "montenegro",
+   "group": "eu",
+   "cc": "ME",
+   "name": "Montenegro",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    18.1728,
+    41.6162,
+    20.3588,
+    43.5622
+   ],
+   "files": {
+    "map.pmtiles": 41160998,
+    "graph.bin": 51338722,
+    "pack.sqlite": 2424832
    },
    "v": 3
   },
@@ -1658,6 +1698,66 @@
     "map.pmtiles": 4360864,
     "graph.bin": 5264116,
     "pack.sqlite": 2494464
+   },
+   "v": 3
+  },
+  {
+   "id": "nl-drenthe",
+   "group": "eu",
+   "cc": "NL",
+   "name": "Drenthe",
+   "note": "Netherlands",
+   "parent": "Netherlands",
+   "bbox": [
+    6.1186,
+    52.6109,
+    7.0954,
+    53.2051
+   ],
+   "files": {
+    "map.pmtiles": 35769635,
+    "graph.bin": 22479532,
+    "pack.sqlite": 14630912
+   },
+   "v": 3
+  },
+  {
+   "id": "nl-flevoland",
+   "group": "eu",
+   "cc": "NL",
+   "name": "Flevoland",
+   "note": "Netherlands",
+   "parent": "Netherlands",
+   "bbox": [
+    5.0596,
+    52.2483,
+    6.0183,
+    52.8452
+   ],
+   "files": {
+    "map.pmtiles": 20329416,
+    "graph.bin": 12291616,
+    "pack.sqlite": 11862016
+   },
+   "v": 3
+  },
+  {
+   "id": "nl-friesland",
+   "group": "eu",
+   "cc": "NL",
+   "name": "Friesland",
+   "note": "Netherlands",
+   "parent": "Netherlands",
+   "bbox": [
+    4.5973,
+    52.7636,
+    6.4284,
+    53.6809
+   ],
+   "files": {
+    "map.pmtiles": 48815221,
+    "graph.bin": 24012016,
+    "pack.sqlite": 20287488
    },
    "v": 3
   },
