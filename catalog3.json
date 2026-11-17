@@ -3174,10 +3174,11 @@
    ],
    "files": {
     "map.pmtiles": 250485372,
-    "graph.bin": 266257480,
-    "pack.sqlite": 67919872
+    "graph.bin": 266349790,
+    "pack.sqlite": 67960832
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "us-connecticut",
@@ -3194,10 +3195,11 @@
    ],
    "files": {
     "map.pmtiles": 71017222,
-    "graph.bin": 79714432,
-    "pack.sqlite": 60805120
+    "graph.bin": 79737622,
+    "pack.sqlite": 60813312
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "us-delaware",
@@ -3215,9 +3217,10 @@
    "files": {
     "map.pmtiles": 19014206,
     "graph.bin": 19737946,
-    "pack.sqlite": 7254016
+    "pack.sqlite": 7258112
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "us-district-of-columbia",
@@ -3234,10 +3237,11 @@
    ],
    "files": {
     "map.pmtiles": 7178091,
-    "graph.bin": 5370172,
-    "pack.sqlite": 8396800
+    "graph.bin": 5435362,
+    "pack.sqlite": 8433664
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "us-florida",
@@ -3254,10 +3258,11 @@
    ],
    "files": {
     "map.pmtiles": 599863531,
-    "graph.bin": 323952298,
-    "pack.sqlite": 170295296
+    "graph.bin": 324441436,
+    "pack.sqlite": 170528768
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "us-georgia",
