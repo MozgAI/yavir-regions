@@ -1094,10 +1094,11 @@
    ],
    "files": {
     "map.pmtiles": 16617038,
-    "graph.bin": 20572122,
-    "pack.sqlite": 1904640
+    "graph.bin": 20576088,
+    "pack.sqlite": 1892352
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "es-madrid",
@@ -1114,10 +1115,11 @@
    ],
    "files": {
     "map.pmtiles": 39043502,
-    "graph.bin": 66193244,
-    "pack.sqlite": 25481216
+    "graph.bin": 66520904,
+    "pack.sqlite": 25436160
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "es-melilla",
@@ -1134,10 +1136,11 @@
    ],
    "files": {
     "map.pmtiles": 980248,
-    "graph.bin": 678184,
-    "pack.sqlite": 266240
+    "graph.bin": 683842,
+    "pack.sqlite": 270336
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "es-murcia",
@@ -1154,10 +1157,11 @@
    ],
    "files": {
     "map.pmtiles": 31824114,
-    "graph.bin": 69525920,
-    "pack.sqlite": 6414336
+    "graph.bin": 69530018,
+    "pack.sqlite": 6369280
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "es-navarra",
@@ -1174,10 +1178,11 @@
    ],
    "files": {
     "map.pmtiles": 43569527,
-    "graph.bin": 68475790,
-    "pack.sqlite": 5001216
+    "graph.bin": 68585584,
+    "pack.sqlite": 5296128
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "es-pais-vasco",
