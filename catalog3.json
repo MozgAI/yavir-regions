@@ -3111,10 +3111,11 @@
    ],
    "files": {
     "map.pmtiles": 379138799,
-    "graph.bin": 46943710,
-    "pack.sqlite": 5730304
+    "graph.bin": 46965712,
+    "pack.sqlite": 5750784
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "us-arizona",
@@ -3131,10 +3132,11 @@
    ],
    "files": {
     "map.pmtiles": 213144189,
-    "graph.bin": 250756834,
-    "pack.sqlite": 95977472
+    "graph.bin": 250812790,
+    "pack.sqlite": 96088064
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "us-arkansas",
@@ -3151,10 +3153,11 @@
    ],
    "files": {
     "map.pmtiles": 90736806,
-    "graph.bin": 127751740,
-    "pack.sqlite": 36241408
+    "graph.bin": 127758100,
+    "pack.sqlite": 36245504
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "us-colorado",
@@ -4091,10 +4094,11 @@
    ],
    "files": {
     "map.pmtiles": 319786366,
-    "graph.bin": 496506916,
-    "pack.sqlite": 126259200
+    "graph.bin": 496807540,
+    "pack.sqlite": 126513152
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "us-socal",
@@ -4111,10 +4115,11 @@
    ],
    "files": {
     "map.pmtiles": 205283570,
-    "graph.bin": 297881806,
-    "pack.sqlite": 150659072
+    "graph.bin": 298152508,
+    "pack.sqlite": 150990848
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "banff-canmore",
