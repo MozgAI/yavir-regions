@@ -722,6 +722,26 @@
    "v": 3
   },
   {
+   "id": "de-thueringen",
+   "group": "eu",
+   "cc": "DE",
+   "name": "Thüringen",
+   "note": "Germany",
+   "parent": "Germany",
+   "bbox": [
+    9.8632,
+    50.1997,
+    12.6611,
+    51.6524
+   ],
+   "files": {
+    "map.pmtiles": 117763542,
+    "graph.bin": 99795564,
+    "pack.sqlite": 30322688
+   },
+   "v": 3
+  },
+  {
    "id": "denmark",
    "group": "eu",
    "cc": "DK",
@@ -1262,6 +1282,46 @@
    "v": 3
   },
   {
+   "id": "guernsey-jersey",
+   "group": "eu",
+   "cc": "GG",
+   "name": "Guernsey and Jersey",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -3.5733,
+    49.0038,
+    -1.7916,
+    50.0695
+   ],
+   "files": {
+    "map.pmtiles": 3751573,
+    "graph.bin": 3020014,
+    "pack.sqlite": 1073152
+   },
+   "v": 3
+  },
+  {
+   "id": "greece",
+   "group": "eu",
+   "cc": "GR",
+   "name": "Greece",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    18.9706,
+    34.5911,
+    29.6568,
+    41.7495
+   ],
+   "files": {
+    "map.pmtiles": 273150571,
+    "graph.bin": 684347696,
+    "pack.sqlite": 28663808
+   },
+   "v": 3
+  },
+  {
    "id": "croatia",
    "group": "eu",
    "cc": "HR",
@@ -1278,6 +1338,46 @@
     "map.pmtiles": 222358448,
     "graph.bin": 182214192,
     "pack.sqlite": 26398720
+   },
+   "v": 3
+  },
+  {
+   "id": "hungary",
+   "group": "eu",
+   "cc": "HU",
+   "name": "Hungary",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    16.1085,
+    45.7321,
+    22.9065,
+    48.5892
+   ],
+   "files": {
+    "map.pmtiles": 252809431,
+    "graph.bin": 224808912,
+    "pack.sqlite": 63447040
+   },
+   "v": 3
+  },
+  {
+   "id": "iceland",
+   "group": "eu",
+   "cc": "IS",
+   "name": "Iceland",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -25.7,
+    62.8455,
+    -12.4171,
+    67.5008
+   ],
+   "files": {
+    "map.pmtiles": 152458730,
+    "graph.bin": 50663566,
+    "pack.sqlite": 6975488
    },
    "v": 3
   },
