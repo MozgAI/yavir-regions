@@ -884,10 +884,11 @@
    ],
    "files": {
     "map.pmtiles": 116632839,
-    "graph.bin": 154807480,
-    "pack.sqlite": 11538432
+    "graph.bin": 154843054,
+    "pack.sqlite": 11534336
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "es-asturias",
@@ -904,10 +905,11 @@
    ],
    "files": {
     "map.pmtiles": 33511962,
-    "graph.bin": 57212680,
-    "pack.sqlite": 5865472
+    "graph.bin": 57264952,
+    "pack.sqlite": 5963776
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "es-cantabria",
@@ -924,10 +926,11 @@
    ],
    "files": {
     "map.pmtiles": 26171731,
-    "graph.bin": 39597988,
+    "graph.bin": 39602068,
     "pack.sqlite": 4603904
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "es-castilla-y-leon",
@@ -944,10 +947,11 @@
    ],
    "files": {
     "map.pmtiles": 201353979,
-    "graph.bin": 272331874,
-    "pack.sqlite": 32641024
+    "graph.bin": 272372056,
+    "pack.sqlite": 32526336
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "es-castilla-la-mancha",
@@ -964,10 +968,11 @@
    ],
    "files": {
     "map.pmtiles": 118600820,
-    "graph.bin": 194894572,
-    "pack.sqlite": 17854464
+    "graph.bin": 194957848,
+    "pack.sqlite": 17817600
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "es-cataluna",
