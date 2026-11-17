@@ -1762,6 +1762,106 @@
    "v": 3
   },
   {
+   "id": "nl-gelderland",
+   "group": "eu",
+   "cc": "NL",
+   "name": "Gelderland",
+   "note": "Netherlands",
+   "parent": "Netherlands",
+   "bbox": [
+    4.9926,
+    51.7323,
+    6.8358,
+    52.5232
+   ],
+   "files": {
+    "map.pmtiles": 80476084,
+    "graph.bin": 52522944,
+    "pack.sqlite": 58822656
+   },
+   "v": 3
+  },
+  {
+   "id": "nl-groningen",
+   "group": "eu",
+   "cc": "NL",
+   "name": "Groningen",
+   "note": "Netherlands",
+   "parent": "Netherlands",
+   "bbox": [
+    6.1665,
+    52.8373,
+    7.2305,
+    53.6573
+   ],
+   "files": {
+    "map.pmtiles": 29306787,
+    "graph.bin": 13407382,
+    "pack.sqlite": 17809408
+   },
+   "v": 3
+  },
+  {
+   "id": "nl-limburg",
+   "group": "eu",
+   "cc": "NL",
+   "name": "Limburg",
+   "note": "Netherlands",
+   "parent": "Netherlands",
+   "bbox": [
+    5.5633,
+    50.7475,
+    6.2294,
+    51.7799
+   ],
+   "files": {
+    "map.pmtiles": 43991435,
+    "graph.bin": 29487652,
+    "pack.sqlite": 33923072
+   },
+   "v": 3
+  },
+  {
+   "id": "nl-noord-brabant",
+   "group": "eu",
+   "cc": "NL",
+   "name": "Noord-Brabant",
+   "note": "Netherlands",
+   "parent": "Netherlands",
+   "bbox": [
+    4.1892,
+    51.2181,
+    6.0494,
+    51.8318
+   ],
+   "files": {
+    "map.pmtiles": 77972061,
+    "graph.bin": 48459610,
+    "pack.sqlite": 72798208
+   },
+   "v": 3
+  },
+  {
+   "id": "nl-noord-holland",
+   "group": "eu",
+   "cc": "NL",
+   "name": "Noord-Holland",
+   "note": "Netherlands",
+   "parent": "Netherlands",
+   "bbox": [
+    3.8969,
+    52.165,
+    5.3785,
+    53.2895
+   ],
+   "files": {
+    "map.pmtiles": 59492480,
+    "graph.bin": 43332450,
+    "pack.sqlite": 87314432
+   },
+   "v": 3
+  },
+  {
    "id": "azores",
    "group": "eu",
    "cc": "PT",
