@@ -662,6 +662,106 @@
    "v": 3
   },
   {
+   "id": "us-north-carolina",
+   "group": "us",
+   "cc": "US",
+   "name": "North Carolina",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -84.3222,
+    33.1299,
+    -73.7396,
+    36.5898
+   ],
+   "files": {
+    "map.pmtiles": 235365107,
+    "graph.bin": 332996642,
+    "pack.sqlite": 99540992
+   },
+   "v": 3
+  },
+  {
+   "id": "us-north-dakota",
+   "group": "us",
+   "cc": "US",
+   "name": "North Dakota",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -104.053,
+    45.9345,
+    -96.5529,
+    49.0167
+   ],
+   "files": {
+    "map.pmtiles": 94692576,
+    "graph.bin": 98122574,
+    "pack.sqlite": 5492736
+   },
+   "v": 3
+  },
+  {
+   "id": "us-ohio",
+   "group": "us",
+   "cc": "US",
+   "name": "Ohio",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -84.8219,
+    38.4008,
+    -80.5052,
+    42.3358
+   ],
+   "files": {
+    "map.pmtiles": 245369108,
+    "graph.bin": 261595356,
+    "pack.sqlite": 72802304
+   },
+   "v": 3
+  },
+  {
+   "id": "us-oklahoma",
+   "group": "us",
+   "cc": "US",
+   "name": "Oklahoma",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -103.0078,
+    33.6135,
+    -94.4299,
+    37.0053
+   ],
+   "files": {
+    "map.pmtiles": 109460385,
+    "graph.bin": 137543936,
+    "pack.sqlite": 22855680
+   },
+   "v": 3
+  },
+  {
+   "id": "us-pennsylvania",
+   "group": "us",
+   "cc": "US",
+   "name": "Pennsylvania",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -80.5228,
+    39.6644,
+    -74.6876,
+    42.5165
+   ],
+   "files": {
+    "map.pmtiles": 234459236,
+    "graph.bin": 321998084,
+    "pack.sqlite": 104001536
+   },
+   "v": 3
+  },
+  {
    "id": "us-norcal",
    "group": "us",
    "cc": "US",
