@@ -162,6 +162,106 @@
    "v": 3
   },
   {
+   "id": "us-district-of-columbia",
+   "group": "us",
+   "cc": "US",
+   "name": "District of Columbia",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -77.1201,
+    38.791,
+    -76.9091,
+    38.996
+   ],
+   "files": {
+    "map.pmtiles": 7178091,
+    "graph.bin": 5370172,
+    "pack.sqlite": 8396800
+   },
+   "v": 3
+  },
+  {
+   "id": "us-florida",
+   "group": "us",
+   "cc": "US",
+   "name": "Florida",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -88.469,
+    24.2003,
+    -79.437,
+    31.0031
+   ],
+   "files": {
+    "map.pmtiles": 599863531,
+    "graph.bin": 323952298,
+    "pack.sqlite": 170295296
+   },
+   "v": 3
+  },
+  {
+   "id": "us-georgia",
+   "group": "us",
+   "cc": "US",
+   "name": "Georgia",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -85.6068,
+    30.3536,
+    -80.7431,
+    35.0036
+   ],
+   "files": {
+    "map.pmtiles": 199451102,
+    "graph.bin": 251058148,
+    "pack.sqlite": 68882432
+   },
+   "v": 3
+  },
+  {
+   "id": "us-hawaii",
+   "group": "us",
+   "cc": "US",
+   "name": "Hawaii",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -179.5994,
+    15.921,
+    -142.6511,
+    29.0211
+   ],
+   "files": {
+    "map.pmtiles": 15665024,
+    "graph.bin": 27304234,
+    "pack.sqlite": 4505600
+   },
+   "v": 3
+  },
+  {
+   "id": "us-idaho",
+   "group": "us",
+   "cc": "US",
+   "name": "Idaho",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    -117.246,
+    41.9831,
+    -111.0431,
+    49.0082
+   ],
+   "files": {
+    "map.pmtiles": 124696671,
+    "graph.bin": 232956068,
+    "pack.sqlite": 26505216
+   },
+   "v": 3
+  },
+  {
    "id": "us-norcal",
    "group": "us",
    "cc": "US",
