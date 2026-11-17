@@ -2042,6 +2042,106 @@
    "v": 3
   },
   {
+   "id": "pl-mazowieckie",
+   "group": "eu",
+   "cc": "PL",
+   "name": "Mazowieckie",
+   "note": "Poland",
+   "parent": "Poland",
+   "bbox": [
+    19.2336,
+    50.9845,
+    23.1564,
+    53.5116
+   ],
+   "files": {
+    "map.pmtiles": 216513155,
+    "graph.bin": 115148916,
+    "pack.sqlite": 47005696
+   },
+   "v": 3
+  },
+  {
+   "id": "pl-malopolskie",
+   "group": "eu",
+   "cc": "PL",
+   "name": "Małopolskie",
+   "note": "Poland",
+   "parent": "Poland",
+   "bbox": [
+    19.0749,
+    49.1649,
+    21.4333,
+    50.5322
+   ],
+   "files": {
+    "map.pmtiles": 127739184,
+    "graph.bin": 97684720,
+    "pack.sqlite": 28581888
+   },
+   "v": 3
+  },
+  {
+   "id": "pl-opolskie",
+   "group": "eu",
+   "cc": "PL",
+   "name": "Opolskie",
+   "note": "Poland",
+   "parent": "Poland",
+   "bbox": [
+    16.9015,
+    49.9577,
+    18.7022,
+    51.2014
+   ],
+   "files": {
+    "map.pmtiles": 43900622,
+    "graph.bin": 30350686,
+    "pack.sqlite": 9084928
+   },
+   "v": 3
+  },
+  {
+   "id": "pl-podkarpackie",
+   "group": "eu",
+   "cc": "PL",
+   "name": "Podkarpackie",
+   "note": "Poland",
+   "parent": "Poland",
+   "bbox": [
+    21.1343,
+    48.9864,
+    23.5536,
+    50.8259
+   ],
+   "files": {
+    "map.pmtiles": 117223792,
+    "graph.bin": 89117458,
+    "pack.sqlite": 15540224
+   },
+   "v": 3
+  },
+  {
+   "id": "pl-podlaskie",
+   "group": "eu",
+   "cc": "PL",
+   "name": "Podlaskie",
+   "note": "Poland",
+   "parent": "Poland",
+   "bbox": [
+    21.5846,
+    52.2711,
+    23.9614,
+    54.4254
+   ],
+   "files": {
+    "map.pmtiles": 85801583,
+    "graph.bin": 41355680,
+    "pack.sqlite": 9609216
+   },
+   "v": 3
+  },
+  {
    "id": "pl-lodzkie",
    "group": "eu",
    "cc": "PL",
