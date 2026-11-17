@@ -1482,6 +1482,86 @@
    "v": 3
   },
   {
+   "id": "it-nord-ovest",
+   "group": "eu",
+   "cc": "IT",
+   "name": "Nord-Ovest",
+   "note": "Italy",
+   "parent": "Italy",
+   "bbox": [
+    6.6027,
+    43.481,
+    11.4334,
+    46.6412
+   ],
+   "files": {
+    "map.pmtiles": 362196061,
+    "graph.bin": 494104870,
+    "pack.sqlite": 90427392
+   },
+   "v": 3
+  },
+  {
+   "id": "it-sud",
+   "group": "eu",
+   "cc": "IT",
+   "name": "Sud",
+   "note": "Italy",
+   "parent": "Italy",
+   "bbox": [
+    13.0013,
+    37.8015,
+    19.125,
+    42.9136
+   ],
+   "files": {
+    "map.pmtiles": 275219371,
+    "graph.bin": 360473848,
+    "pack.sqlite": 47382528
+   },
+   "v": 3
+  },
+  {
+   "id": "liechtenstein",
+   "group": "eu",
+   "cc": "LI",
+   "name": "Liechtenstein",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    9.4711,
+    47.0477,
+    9.6362,
+    47.2713
+   ],
+   "files": {
+    "map.pmtiles": 4655716,
+    "graph.bin": 2695852,
+    "pack.sqlite": 843776
+   },
+   "v": 3
+  },
+  {
+   "id": "latvia",
+   "group": "eu",
+   "cc": "LV",
+   "name": "Latvia",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    19.7335,
+    55.6611,
+    28.255,
+    58.0947
+   ],
+   "files": {
+    "map.pmtiles": 156930415,
+    "graph.bin": 92102788,
+    "pack.sqlite": 21315584
+   },
+   "v": 3
+  },
+  {
    "id": "azores",
    "group": "eu",
    "cc": "PT",
@@ -1518,6 +1598,26 @@
     "map.pmtiles": 1069899433,
     "graph.bin": 660833128,
     "pack.sqlite": 146366464
+   },
+   "v": 3
+  },
+  {
+   "id": "kosovo",
+   "group": "eu",
+   "cc": "XK",
+   "name": "Kosovo",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    20.0136,
+    41.8541,
+    21.7933,
+    43.2775
+   ],
+   "files": {
+    "map.pmtiles": 28632719,
+    "graph.bin": 41502840,
+    "pack.sqlite": 17641472
    },
    "v": 3
   },
