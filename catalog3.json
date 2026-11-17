@@ -1955,10 +1955,11 @@
    ],
    "files": {
     "map.pmtiles": 257045567,
-    "graph.bin": 367286012,
-    "pack.sqlite": 65421312
+    "graph.bin": 367734368,
+    "pack.sqlite": 66031616
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "it-isole",
@@ -1975,10 +1976,11 @@
    ],
    "files": {
     "map.pmtiles": 122244974,
-    "graph.bin": 244547256,
-    "pack.sqlite": 61386752
+    "graph.bin": 244580082,
+    "pack.sqlite": 61599744
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "it-nord-est",
@@ -1995,10 +1997,11 @@
    ],
    "files": {
     "map.pmtiles": 380077979,
-    "graph.bin": 430490174,
-    "pack.sqlite": 158490624
+    "graph.bin": 430764962,
+    "pack.sqlite": 160280576
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "it-nord-ovest",
@@ -2015,10 +2018,11 @@
    ],
    "files": {
     "map.pmtiles": 362196061,
-    "graph.bin": 494104870,
-    "pack.sqlite": 90427392
+    "graph.bin": 494582914,
+    "pack.sqlite": 90959872
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "it-sud",
@@ -2035,10 +2039,11 @@
    ],
    "files": {
     "map.pmtiles": 275219371,
-    "graph.bin": 360473848,
-    "pack.sqlite": 47382528
+    "graph.bin": 360573274,
+    "pack.sqlite": 47763456
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "liechtenstein",
