@@ -1542,6 +1542,46 @@
    "v": 3
   },
   {
+   "id": "lithuania",
+   "group": "eu",
+   "cc": "LT",
+   "name": "Lithuania",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    20.6186,
+    53.8922,
+    26.8387,
+    56.4533
+   ],
+   "files": {
+    "map.pmtiles": 232690319,
+    "graph.bin": 113059080,
+    "pack.sqlite": 49123328
+   },
+   "v": 3
+  },
+  {
+   "id": "luxembourg",
+   "group": "eu",
+   "cc": "LU",
+   "name": "Luxembourg",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    5.733,
+    49.4455,
+    6.5322,
+    50.185
+   ],
+   "files": {
+    "map.pmtiles": 41792681,
+    "graph.bin": 24715776,
+    "pack.sqlite": 9150464
+   },
+   "v": 3
+  },
+  {
    "id": "latvia",
    "group": "eu",
    "cc": "LV",
@@ -1558,6 +1598,66 @@
     "map.pmtiles": 156930415,
     "graph.bin": 92102788,
     "pack.sqlite": 21315584
+   },
+   "v": 3
+  },
+  {
+   "id": "moldova",
+   "group": "eu",
+   "cc": "MD",
+   "name": "Moldova",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    26.6123,
+    45.4616,
+    30.1925,
+    48.494
+   ],
+   "files": {
+    "map.pmtiles": 81252054,
+    "graph.bin": 90162346,
+    "pack.sqlite": 37462016
+   },
+   "v": 3
+  },
+  {
+   "id": "macedonia",
+   "group": "eu",
+   "cc": "MK",
+   "name": "Macedonia",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    20.4467,
+    40.8476,
+    23.0401,
+    42.3797
+   ],
+   "files": {
+    "map.pmtiles": 40330904,
+    "graph.bin": 47742432,
+    "pack.sqlite": 3522560
+   },
+   "v": 3
+  },
+  {
+   "id": "malta",
+   "group": "eu",
+   "cc": "MT",
+   "name": "Malta",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    14.0,
+    35.5198,
+    14.8561,
+    36.333
+   ],
+   "files": {
+    "map.pmtiles": 4360864,
+    "graph.bin": 5264116,
+    "pack.sqlite": 2494464
    },
    "v": 3
   },
