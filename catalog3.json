@@ -862,6 +862,106 @@
    "v": 3
   },
   {
+   "id": "fr-picardie",
+   "group": "eu",
+   "cc": "FR",
+   "name": "Picardie",
+   "note": "France",
+   "parent": "France",
+   "bbox": [
+    1.3601,
+    48.836,
+    4.2567,
+    50.3713
+   ],
+   "files": {
+    "map.pmtiles": 83740658,
+    "graph.bin": 65339852,
+    "pack.sqlite": 30113792
+   },
+   "v": 3
+  },
+  {
+   "id": "fr-poitou-charentes",
+   "group": "eu",
+   "cc": "FR",
+   "name": "Poitou-Charentes",
+   "note": "France",
+   "parent": "France",
+   "bbox": [
+    -1.8986,
+    45.0868,
+    1.215,
+    47.1784
+   ],
+   "files": {
+    "map.pmtiles": 113610280,
+    "graph.bin": 114784112,
+    "pack.sqlite": 32370688
+   },
+   "v": 3
+  },
+  {
+   "id": "fr-provence-alpes-cote-d-azur",
+   "group": "eu",
+   "cc": "FR",
+   "name": "Provence Alpes-Cote-d'Azur",
+   "note": "France",
+   "parent": "France",
+   "bbox": [
+    4.1447,
+    42.3154,
+    7.7485,
+    45.1289
+   ],
+   "files": {
+    "map.pmtiles": 159571284,
+    "graph.bin": 268252942,
+    "pack.sqlite": 43454464
+   },
+   "v": 3
+  },
+  {
+   "id": "fr-rhone-alpes",
+   "group": "eu",
+   "cc": "FR",
+   "name": "Rhone-Alpes",
+   "note": "France",
+   "parent": "France",
+   "bbox": [
+    3.6861,
+    44.1127,
+    7.1921,
+    46.5225
+   ],
+   "files": {
+    "map.pmtiles": 290473263,
+    "graph.bin": 372904612,
+    "pack.sqlite": 80265216
+   },
+   "v": 3
+  },
+  {
+   "id": "georgia",
+   "group": "eu",
+   "cc": "GE",
+   "name": "Georgia",
+   "note": "",
+   "parent": "",
+   "bbox": [
+    39.8809,
+    41.0512,
+    46.7396,
+    43.5899
+   ],
+   "files": {
+    "map.pmtiles": 109283846,
+    "graph.bin": 115724096,
+    "pack.sqlite": 9949184
+   },
+   "v": 3
+  },
+  {
    "id": "croatia",
    "group": "eu",
    "cc": "HR",
