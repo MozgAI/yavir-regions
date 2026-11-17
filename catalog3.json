@@ -522,6 +522,106 @@
    "v": 3
   },
   {
+   "id": "de-hamburg",
+   "group": "eu",
+   "cc": "DE",
+   "name": "Hamburg",
+   "note": "Germany",
+   "parent": "Germany",
+   "bbox": [
+    7.9678,
+    53.3918,
+    10.332,
+    54.0626
+   ],
+   "files": {
+    "map.pmtiles": 19285853,
+    "graph.bin": 17857606,
+    "pack.sqlite": 18804736
+   },
+   "v": 3
+  },
+  {
+   "id": "de-hessen",
+   "group": "eu",
+   "cc": "DE",
+   "name": "Hessen",
+   "note": "Germany",
+   "parent": "Germany",
+   "bbox": [
+    7.768,
+    49.3932,
+    10.246,
+    51.6592
+   ],
+   "files": {
+    "map.pmtiles": 193556343,
+    "graph.bin": 186054718,
+    "pack.sqlite": 86605824
+   },
+   "v": 3
+  },
+  {
+   "id": "de-mecklenburg-vorpommern",
+   "group": "eu",
+   "cc": "DE",
+   "name": "Mecklenburg-Vorpommern",
+   "note": "Germany",
+   "parent": "Germany",
+   "bbox": [
+    10.5881,
+    53.1062,
+    14.4229,
+    54.9837
+   ],
+   "files": {
+    "map.pmtiles": 111297690,
+    "graph.bin": 53021492,
+    "pack.sqlite": 27348992
+   },
+   "v": 3
+  },
+  {
+   "id": "de-niedersachsen",
+   "group": "eu",
+   "cc": "DE",
+   "name": "Niedersachsen + Bremen",
+   "note": "Germany",
+   "parent": "Germany",
+   "bbox": [
+    6.2953,
+    51.2935,
+    11.6073,
+    54.2396
+   ],
+   "files": {
+    "map.pmtiles": 334248344,
+    "graph.bin": 211802170,
+    "pack.sqlite": 147324928
+   },
+   "v": 3
+  },
+  {
+   "id": "de-nordrhein-westfalen",
+   "group": "eu",
+   "cc": "DE",
+   "name": "Nordrhein-Westfalen",
+   "note": "Germany",
+   "parent": "Germany",
+   "bbox": [
+    5.8644,
+    50.3209,
+    9.4683,
+    52.5335
+   ],
+   "files": {
+    "map.pmtiles": 392185571,
+    "graph.bin": 348001216,
+    "pack.sqlite": 249573376
+   },
+   "v": 3
+  },
+  {
    "id": "denmark",
    "group": "eu",
    "cc": "DK",
