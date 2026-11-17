@@ -485,10 +485,11 @@
    ],
    "files": {
     "map.pmtiles": 339595372,
-    "graph.bin": 365358964,
-    "pack.sqlite": 158228480
+    "graph.bin": 365931346,
+    "pack.sqlite": 158007296
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "de-bayern",
@@ -505,10 +506,11 @@
    ],
    "files": {
     "map.pmtiles": 512034665,
-    "graph.bin": 516681386,
-    "pack.sqlite": 165449728
+    "graph.bin": 517197680,
+    "pack.sqlite": 165359616
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "de-berlin",
@@ -1669,10 +1671,11 @@
    ],
    "files": {
     "map.pmtiles": 159571284,
-    "graph.bin": 268252942,
-    "pack.sqlite": 43454464
+    "graph.bin": 268390060,
+    "pack.sqlite": 43511808
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "fr-rhone-alpes",
@@ -1689,10 +1692,11 @@
    ],
    "files": {
     "map.pmtiles": 290473263,
-    "graph.bin": 372904612,
-    "pack.sqlite": 80265216
+    "graph.bin": 373119454,
+    "pack.sqlite": 80060416
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "gb-england",
@@ -1769,10 +1773,11 @@
    ],
    "files": {
     "map.pmtiles": 109283846,
-    "graph.bin": 115724096,
-    "pack.sqlite": 9949184
+    "graph.bin": 115741394,
+    "pack.sqlite": 23580672
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "guernsey-jersey",
