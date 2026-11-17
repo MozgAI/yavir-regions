@@ -527,10 +527,11 @@
    ],
    "files": {
     "map.pmtiles": 26232600,
-    "graph.bin": 22982350,
-    "pack.sqlite": 28905472
+    "graph.bin": 23034850,
+    "pack.sqlite": 28975104
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "de-brandenburg",
@@ -547,10 +548,11 @@
    ],
    "files": {
     "map.pmtiles": 159077951,
-    "graph.bin": 109290430,
-    "pack.sqlite": 72937472
+    "graph.bin": 109415128,
+    "pack.sqlite": 72982528
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "de-bremen",
@@ -567,10 +569,11 @@
    ],
    "files": {
     "map.pmtiles": 11386484,
-    "graph.bin": 6434168,
-    "pack.sqlite": 9027584
+    "graph.bin": 6467240,
+    "pack.sqlite": 9011200
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "de-hamburg",
@@ -587,10 +590,11 @@
    ],
    "files": {
     "map.pmtiles": 19285853,
-    "graph.bin": 17857606,
-    "pack.sqlite": 18804736
+    "graph.bin": 18074794,
+    "pack.sqlite": 18833408
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "de-hessen",
@@ -607,10 +611,11 @@
    ],
    "files": {
     "map.pmtiles": 193556343,
-    "graph.bin": 186054718,
-    "pack.sqlite": 86605824
+    "graph.bin": 186429652,
+    "pack.sqlite": 86466560
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "de-mecklenburg-vorpommern",
