@@ -3699,10 +3699,11 @@
    ],
    "files": {
     "map.pmtiles": 107318207,
-    "graph.bin": 115158716,
-    "pack.sqlite": 40628224
+    "graph.bin": 115228910,
+    "pack.sqlite": 40685568
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "us-new-mexico",
@@ -3719,10 +3720,11 @@
    ],
    "files": {
     "map.pmtiles": 121060922,
-    "graph.bin": 157058122,
-    "pack.sqlite": 17616896
+    "graph.bin": 157061638,
+    "pack.sqlite": 17657856
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "us-new-york",
@@ -3739,10 +3741,11 @@
    ],
    "files": {
     "map.pmtiles": 221234176,
-    "graph.bin": 247347518,
-    "pack.sqlite": 309178368
+    "graph.bin": 247590140,
+    "pack.sqlite": 309739520
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "us-north-carolina",
@@ -3759,10 +3762,11 @@
    ],
    "files": {
     "map.pmtiles": 235365107,
-    "graph.bin": 332996642,
-    "pack.sqlite": 99540992
+    "graph.bin": 333079796,
+    "pack.sqlite": 99610624
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "us-north-dakota",
@@ -3779,10 +3783,11 @@
    ],
    "files": {
     "map.pmtiles": 94692576,
-    "graph.bin": 98122574,
-    "pack.sqlite": 5492736
+    "graph.bin": 98126120,
+    "pack.sqlite": 5529600
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "us-ohio",
