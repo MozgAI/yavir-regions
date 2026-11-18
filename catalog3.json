@@ -4014,10 +4014,11 @@
    ],
    "files": {
     "map.pmtiles": 40335780,
-    "graph.bin": 52565514,
-    "pack.sqlite": 21938176
+    "graph.bin": 52591290,
+    "pack.sqlite": 21946368
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "us-virginia",
@@ -4034,10 +4035,11 @@
    ],
    "files": {
     "map.pmtiles": 221103153,
-    "graph.bin": 346111366,
-    "pack.sqlite": 138268672
+    "graph.bin": 346367320,
+    "pack.sqlite": 138313728
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "us-washington",
@@ -4054,10 +4056,11 @@
    ],
    "files": {
     "map.pmtiles": 246827544,
-    "graph.bin": 283003876,
-    "pack.sqlite": 106053632
+    "graph.bin": 283189444,
+    "pack.sqlite": 106176512
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "us-west-virginia",
@@ -4074,10 +4077,11 @@
    ],
    "files": {
     "map.pmtiles": 134591547,
-    "graph.bin": 100566390,
-    "pack.sqlite": 14049280
+    "graph.bin": 100576434,
+    "pack.sqlite": 14053376
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "us-wisconsin",
@@ -4094,10 +4098,11 @@
    ],
    "files": {
     "map.pmtiles": 224843416,
-    "graph.bin": 187015240,
-    "pack.sqlite": 60080128
+    "graph.bin": 187104358,
+    "pack.sqlite": 60145664
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "us-wyoming",
