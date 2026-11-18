@@ -206,9 +206,10 @@
    "files": {
     "map.pmtiles": 13513072,
     "graph.bin": 7914214,
-    "pack.sqlite": 3985408
+    "pack.sqlite": 4001792
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "quebec",
@@ -225,10 +226,11 @@
    ],
    "files": {
     "map.pmtiles": 1416704319,
-    "graph.bin": 232520660,
-    "pack.sqlite": 99909632
+    "graph.bin": 232717646,
+    "pack.sqlite": 100323328
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "saskatchewan",
@@ -245,10 +247,11 @@
    ],
    "files": {
     "map.pmtiles": 223697713,
-    "graph.bin": 44066768,
-    "pack.sqlite": 12058624
+    "graph.bin": 44076854,
+    "pack.sqlite": 12111872
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "yukon",
@@ -265,10 +268,11 @@
    ],
    "files": {
     "map.pmtiles": 149059534,
-    "graph.bin": 17224098,
-    "pack.sqlite": 581632
+    "graph.bin": 17233590,
+    "pack.sqlite": 589824
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "andorra",
