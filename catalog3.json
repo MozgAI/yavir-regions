@@ -3489,10 +3489,11 @@
    ],
    "files": {
     "map.pmtiles": 111538506,
-    "graph.bin": 121116770,
-    "pack.sqlite": 84525056
+    "graph.bin": 121317050,
+    "pack.sqlite": 84574208
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "us-massachusetts",
@@ -3509,10 +3510,11 @@
    ],
    "files": {
     "map.pmtiles": 118778091,
-    "graph.bin": 178529398,
-    "pack.sqlite": 109613056
+    "graph.bin": 178601482,
+    "pack.sqlite": 109649920
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "us-michigan",
@@ -3529,10 +3531,11 @@
    ],
    "files": {
     "map.pmtiles": 232561700,
-    "graph.bin": 257491192,
-    "pack.sqlite": 54824960
+    "graph.bin": 257592586,
+    "pack.sqlite": 54865920
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "us-minnesota",
@@ -3549,10 +3552,11 @@
    ],
    "files": {
     "map.pmtiles": 241241166,
-    "graph.bin": 163026670,
-    "pack.sqlite": 41828352
+    "graph.bin": 163152892,
+    "pack.sqlite": 41918464
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "us-mississippi",
@@ -3569,10 +3573,11 @@
    ],
    "files": {
     "map.pmtiles": 71192831,
-    "graph.bin": 101151352,
-    "pack.sqlite": 24862720
+    "graph.bin": 101152336,
+    "pack.sqlite": 24879104
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "us-missouri",
