@@ -16,10 +16,11 @@
    ],
    "files": {
     "map.pmtiles": 465815851,
-    "graph.bin": 118435820,
-    "pack.sqlite": 46813184
+    "graph.bin": 118537334,
+    "pack.sqlite": 46927872
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "british-columbia",
@@ -36,10 +37,11 @@
    ],
    "files": {
     "map.pmtiles": 942003717,
-    "graph.bin": 244536118,
-    "pack.sqlite": 54812672
+    "graph.bin": 244611052,
+    "pack.sqlite": 54935552
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "manitoba",
@@ -56,10 +58,11 @@
    ],
    "files": {
     "map.pmtiles": 330908478,
-    "graph.bin": 42484452,
-    "pack.sqlite": 13996032
+    "graph.bin": 42527214,
+    "pack.sqlite": 14110720
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "new-brunswick",
@@ -76,10 +79,11 @@
    ],
    "files": {
     "map.pmtiles": 84603878,
-    "graph.bin": 35958216,
-    "pack.sqlite": 7262208
+    "graph.bin": 35977620,
+    "pack.sqlite": 7462912
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "newfoundland-and-labrador",
@@ -4119,10 +4123,11 @@
    ],
    "files": {
     "map.pmtiles": 121986758,
-    "graph.bin": 131076532,
-    "pack.sqlite": 6770688
+    "graph.bin": 131076748,
+    "pack.sqlite": 6791168
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "us-norcal",
