@@ -101,9 +101,10 @@
    "files": {
     "map.pmtiles": 378831699,
     "graph.bin": 39613598,
-    "pack.sqlite": 3481600
+    "pack.sqlite": 3489792
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "northwest-territories",
@@ -123,7 +124,8 @@
     "graph.bin": 15286990,
     "pack.sqlite": 610304
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "nova-scotia",
@@ -140,10 +142,11 @@
    ],
    "files": {
     "map.pmtiles": 96750985,
-    "graph.bin": 87875022,
-    "pack.sqlite": 23666688
+    "graph.bin": 87877542,
+    "pack.sqlite": 23691264
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "nunavut",
@@ -161,9 +164,10 @@
    "files": {
     "map.pmtiles": 1404276190,
     "graph.bin": 15481902,
-    "pack.sqlite": 331776
+    "pack.sqlite": 380928
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "ontario",
@@ -180,10 +184,11 @@
    ],
    "files": {
     "map.pmtiles": 1059966004,
-    "graph.bin": 231916090,
-    "pack.sqlite": 152469504
+    "graph.bin": 232061428,
+    "pack.sqlite": 154120192
    },
-   "v": 3
+   "v": 3,
+   "names": 1
   },
   {
    "id": "prince-edward-island",
